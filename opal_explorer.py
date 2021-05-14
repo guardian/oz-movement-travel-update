@@ -40,6 +40,12 @@ for thing in listo:
 
 # print(df.columns)
 
+# print(df)
+
+df.rename(columns={"Grand Total": "Total network"}, inplace=True)
+
+df = df.loc[df['index']> "2020-03-01"]
+
 print(df)
 
 def makeTestingLine(df):
@@ -47,13 +53,13 @@ def makeTestingLine(df):
     template = [
             {
                 "title": "Sydney transport patronage",
-                "subtitle": f"Indexed at 100 in February 2020",
+                "subtitle": f"Some modes of transport have recovered more than others",
                 "footnote": "",
-                "source": "| New South Wales transport",
+                "source": "New South Wales transport",
                 "dateFormat": "%Y-%m-%d",
                 "yScaleType":"",
                 "xAxisLabel": "Date",
-                "yAxisLabel": "People",
+                "yAxisLabel": "Percent of February 2020 levels",
                 "minY": "0",
                 "maxY": "",
                 "x_axis_cross_y":"",
@@ -74,6 +80,6 @@ def makeTestingLine(df):
     #  "align":"right", "direction":"right"}]
 
     yachtCharter(template=template, labels=labels, data=chartData, chartId=[{"type":"linechart"}],
-    options=[{"colorScheme":"guardian", "lineLabelling":"TRUE"}], chartName="sydtransport_patronage_covid")
+    options=[{"colorScheme":"guardian", "lineLabelling":"FALSE"}], chartName="sydtransport_patronage_covid")
 
 makeTestingLine(df)

@@ -1,0 +1,235 @@
+ds,country,polygon_source,polygon_id,polygon_name,all_day_bing_tiles_visited_relative_change,all_day_ratio_single_tile_users,baseline_name,baseline_type
+2021-04-28,AUS,GADM,AUS.10.10_1,Brimbank,-4.1,14.4,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.10.12_1,Campaspe,1.2,14.5,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.10.13_1,Cardinia,-0.0,12.7,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.10.14_1,Casey,-3.1,14.4,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.10.16_1,Colac-Otway,-1.4,14.7,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.10.18_1,Darebin,-6.4,15.1,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.10.19_1,East Gippsland,12.4,14.6,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.10.20_1,Frankston,-8.1,14.4,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.10.22_1,Glen Eira,-4.6,13.1,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.10.23_1,Glenelg,-4.3,16.1,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.10.24_1,Golden Plains,10.0,13.5,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.10.25_1,Greater Bendigo,-4.8,13.6,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.10.26_1,Greater Dandenong,0.5,13.0,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.10.27_1,Greater Geelong,-4.8,14.9,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.10.28_1,Greater Shepparton,0.2,14.8,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.10.31_1,Hobsons Bay,-4.9,12.9,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.10.32_1,Horsham,3.7,15.5,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.10.33_1,Hume,-1.8,13.0,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.10.35_1,Kingston,-8.4,13.5,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.10.36_1,Knox,-9.8,14.6,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.10.37_1,Latrobe,-0.6,16.5,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.10.39_1,Macedon Ranges,-8.3,13.6,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.10.3_1,Ballarat,4.1,13.8,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.10.40_1,Manningham,-10.8,13.5,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.10.42_1,Maribyrnong,-6.3,14.7,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.10.43_1,Maroondah,-8.6,13.8,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.10.44_1,Melbourne,-2.2,12.1,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.10.45_1,Melton,-2.4,14.4,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.10.46_1,Mildura,6.0,15.2,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.10.47_1,Mitchell,5.6,13.2,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.10.48_1,Moira,-10.4,15.8,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.10.49_1,Monash,-4.6,15.2,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.10.4_1,Banyule,-8.9,15.8,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.10.50_1,Moonee Valley,-9.7,13.9,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.10.51_1,Moorabool,2.9,15.3,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.10.52_1,Moreland,-5.4,14.3,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.10.53_1,Mornington Peninsula,3.8,15.5,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.10.57_1,Nillumbik,-5.3,11.5,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.10.59_1,Port Phillip,-8.0,13.4,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.10.5_1,Bass Coast,-2.0,16.7,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.10.62_1,South Gippsland,-1.4,14.6,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.10.64_1,Stonnington,-7.6,12.0,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.10.66_1,Surf Coast,-3.5,14.2,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.10.67_1,Swan Hill,11.6,13.6,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.10.6_1,Baw Baw,2.6,13.0,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.10.70_1,Wangaratta,1.9,11.8,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.10.71_1,Warrnambool,-2.9,12.8,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.10.72_1,Wellington,-0.6,16.2,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.10.74_1,Whitehorse,-5.8,15.5,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.10.75_1,Whittlesea,-4.9,14.7,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.10.76_1,Wodonga,3.9,14.9,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.10.77_1,Wyndham,-3.0,14.6,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.10.78_1,Yarra,-7.9,12.8,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.10.79_1,Yarra Ranges,-7.9,14.1,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.10.7_1,Bayside,-5.6,12.4,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.10.9_1,Boroondara,-7.9,13.0,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.11.101_1,Perth,-18.3,21.2,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.11.104_1,Port Hedland,-1.9,10.9,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.11.107_1,Rockingham,-11.2,16.6,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.11.108_1,Roebourne,-1.5,12.0,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.11.111_1,Serpentine-Jarrahdale,-16.8,16.6,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.11.113_1,South Perth,-18.3,18.7,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.11.114_1,Stirling,-10.2,13.9,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.11.116_1,Swan,-9.1,16.1,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.11.122_1,Victoria Park,-9.1,17.8,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.11.124_1,Vincent,-19.4,15.7,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.11.127_1,Wanneroo,-9.9,15.9,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.11.13_1,Broome,4.5,13.0,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.11.16_1,Bunbury,-10.2,18.0,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.11.17_1,Busselton,-1.2,13.8,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.11.19_1,Canning,-7.6,16.0,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.11.1_1,Albany,-1.1,12.3,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.11.26_1,Cockburn,-14.5,15.9,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.11.2_1,Armadale,-11.6,17.0,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.11.3_1,Ashburton,-3.3,7.4,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.11.46_1,East Pilbara,-3.8,7.3,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.11.49_1,Fremantle,2.0,15.9,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.11.50_1,Geraldton-Greenough,10.3,14.1,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.11.54_1,Gosnells,-8.9,17.5,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.11.56_1,Harvey,-3.1,17.3,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.11.59_1,Joondalup,-15.5,16.9,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.11.60_1,Kalamunda,-9.2,18.4,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.11.61_1,Kalgoorlie/Boulder,-1.2,11.4,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.11.69_1,Kwinana,-12.9,14.5,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.11.6_1,Bayswater,-9.7,15.9,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.11.73_1,Mandurah,-9.9,18.5,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.11.76_1,Melville,-16.7,18.4,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.11.7_1,Belmont,-12.1,14.9,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.11.87_1,Mundaring,-19.3,17.8,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.11.89_1,Murray,7.3,16.9,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.2.1_1,Unincorporated Australian Capital Territory,-3.5,12.3,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.100_1,Newcastle,-1.1,13.9,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.101_1,North Sydney,-11.3,13.0,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.103_1,Orange,6.9,9.4,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.106_1,Parramatta,-4.8,14.5,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.107_1,Penrith,-2.7,14.2,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.108_1,Pittwater,-7.8,8.6,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.109_1,Port Macquarie-Hastings,4.0,14.4,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.110_1,Port Stephens,3.9,16.4,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.111_1,Queanbeyan,3.0,10.4,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.112_1,Randwick,-4.4,13.2,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.113_1,Richmond Valley,2.1,17.3,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.114_1,Rockdale,-5.1,13.7,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.115_1,Ryde,-4.5,13.9,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.116_1,Shellharbour,1.4,14.3,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.117_1,Shoalhaven,2.6,16.7,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.118_1,Singleton,-1.8,11.8,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.120_1,Strathfield,4.8,11.1,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.121_1,Sutherland,-13.3,13.4,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.122_1,Sydney,1.3,11.7,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.123_1,Tamworth Regional,3.1,13.9,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.126_1,The Hills,-5.5,14.2,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.129_1,Tweed,4.0,17.1,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.12_1,Blacktown,-2.0,14.4,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.135_1,Wagga Wagga,-3.6,9.7,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.140_1,Warringah,-7.2,11.9,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.142_1,Waverley,0.1,9.4,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.146_1,Willoughby,2.8,11.3,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.147_1,Wingecarribee,7.5,12.8,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.148_1,Wollondilly,0.4,11.7,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.149_1,Wollongong,-0.5,13.6,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.150_1,Woollahra,-3.3,12.5,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.151_1,Wyong,-4.6,14.8,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.15_1,Blue Mountains,-3.2,16.6,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.19_1,Botany Bay,-0.0,12.6,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.1_1,Albury,2.2,13.5,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.22_1,Broken Hill,13.6,14.9,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.23_1,Burwood,-3.0,10.7,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.24_1,Byron,1.5,14.2,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.26_1,Camden,1.6,11.9,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.27_1,Campbelltown,-5.2,15.7,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.28_1,Canada Bay,-4.5,14.2,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.29_1,Canterbury,-5.2,12.6,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.2_1,Armidale Dumaresq,18.8,12.8,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.32_1,Cessnock,-4.6,14.0,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.33_1,Clarence Valley,6.5,16.4,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.35_1,Coffs Harbour,3.5,14.6,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.3_1,Ashfield,-7.2,11.5,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.44_1,Dubbo,-1.1,12.4,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.46_1,Eurobodalla,-1.3,16.3,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.47_1,Fairfield,-4.1,14.5,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.4_1,Auburn,-2.4,11.7,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.52_1,Gosford,-4.8,14.0,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.53_1,Goulburn Mulwaree,-8.3,13.3,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.54_1,Great Lakes,14.2,19.3,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.56_1,Greater Taree,11.5,18.6,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.57_1,Griffith,0.6,10.8,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.5_1,Ballina,0.4,16.8,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.63_1,Hawkesbury,3.6,13.5,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.65_1,Holroyd,-8.0,14.2,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.66_1,Hornsby,-14.3,16.4,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.68_1,Hurstville,-4.7,13.0,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.72_1,Kempsey,15.5,17.1,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.74_1,Kogarah,-1.5,12.2,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.75_1,Ku-ring-gai,-6.2,12.0,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.78_1,Lake Macquarie,-3.4,13.7,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.79_1,Lane Cove,-3.5,14.6,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.7_1,Bankstown,-3.2,14.5,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.81_1,Leichhardt,-4.1,14.1,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.82_1,Lismore,-10.8,15.8,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.83_1,Lithgow,-4.3,16.9,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.84_1,Liverpool,-2.0,13.2,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.87_1,Maitland,3.4,13.9,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.89_1,Marrickville,-6.5,11.8,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.8_1,Bathurst,5.5,13.8,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.90_1,Mid-Western Regional,12.2,17.0,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.95_1,Muswellbrook,3.4,14.4,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.96_1,Nambucca,-6.5,17.5,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.5.9_1,Bega Valley,-2.6,17.2,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.6.11_1,Palmerston,1.8,11.7,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.6.1_1,Alice Springs,8.3,10.5,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.6.6_1,Darwin,2.4,11.7,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.7.10_1,Bundaberg,2.0,18.7,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.7.13_1,Cairns,3.0,14.5,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.7.15_1,Cassowary Coast,-2.6,16.9,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.7.16_1,Central Highlands,15.6,16.2,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.7.26_1,Fraser Coast,-1.7,20.3,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.7.27_1,Gladstone,2.0,16.7,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.7.28_1,Gold Coast,-0.8,13.6,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.7.30_1,Gympie,6.7,18.7,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.7.33_1,Ipswich,4.1,14.5,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.7.34_1,Isaac,-6.3,11.5,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.7.37_1,Lockyer Valley,-4.1,17.3,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.7.38_1,Logan,3.8,13.0,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.7.40_1,Mackay,1.3,13.8,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.7.44_1,Moreton Bay,0.9,14.4,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.7.46_1,Mount Isa,2.6,12.2,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.7.55_1,Redland,-5.3,14.3,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.7.57_1,Rockhampton,3.9,15.3,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.7.58_1,Scenic Rim,6.9,18.8,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.7.59_1,Somerset,-3.9,17.5,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.7.60_1,South Burnett,8.3,19.1,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.7.61_1,Southern Downs,1.7,15.7,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.7.62_1,Sunshine Coast,1.8,13.7,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.7.63_1,Tablelands,-5.3,17.7,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.7.64_1,Toowoomba,2.5,15.2,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.7.67_1,Townsville,0.4,14.6,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.7.69_1,Western Downs,3.8,12.5,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.7.70_1,Whitsunday,6.5,15.3,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.7.8_1,Brisbane,1.0,14.1,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.8.11_1,Charles Sturt,-7.1,12.7,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.8.19_1,Gawler,5.8,14.8,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.8.1_1,Adelaide,-7.4,16.9,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.8.22_1,Holdfast Bay,-4.0,12.1,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.8.2_1,Adelaide Hills,-4.8,13.6,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.8.32_1,Marion,-8.5,13.7,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.8.34_1,Mitcham,-8.3,10.0,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.8.35_1,Mount Barker,-1.3,9.8,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.8.36_1,Mount Gambier,5.3,14.5,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.8.38_1,Murray Bridge,3.1,12.7,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.8.3_1,Alexandrina,-1.6,14.9,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.8.41_1,Norwood Payneham St Peters,-11.7,12.3,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.8.42_1,Onkaparinga,-7.1,12.6,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.8.45_1,Playford,-0.8,14.7,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.8.46_1,Port Adelaide Enfield,-1.2,12.9,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.8.49_1,Port Pirie City and Dists,-5.3,17.0,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.8.54_1,Salisbury,0.2,13.0,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.8.58_1,Tea Tree Gully,1.0,12.1,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.8.5_1,Barossa,-9.7,14.1,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.8.62_1,Unley,-6.8,12.5,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.8.67_1,West Torrens,0.3,12.3,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.8.68_1,Whyalla,10.1,13.5,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.8.8_1,Burnside,4.1,10.0,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.8.9_1,Campbelltown,-3.3,12.0,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.9.14_1,Glenorchy,1.3,15.9,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.9.15_1,Hobart,-0.1,15.3,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.9.19_1,Kingborough,0.5,10.0,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.9.21_1,Launceston,-2.7,14.6,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.9.2_1,Brighton,-1.0,15.1,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.9.30_1,West Tamar,-6.7,15.2,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.9.3_1,Burnie,-11.5,16.5,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.9.4_1,Central Coast,9.0,13.0,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.9.7_1,Clarence,-1.9,11.9,full_february,DAY_OF_WEEK
+2021-04-28,AUS,GADM,AUS.9.9_1,Devonport,7.8,15.6,full_february,DAY_OF_WEEK

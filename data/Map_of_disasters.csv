@@ -1,0 +1,563 @@
+id,name,Drought,pct_burned,Flood_storm_cyclone,Covid total cases,pct_Covid job losses,Disaster index
+10550,Bega Valley,yes,61.2,yes,1,5.7,2.669
+11730,Clarence Valley,yes,59,yes,0,5.9,2.649
+22110,East Gippsland,yes,54.1,yes,5,6.8,2.611
+16610,Richmond Valley,yes,53.4,yes,0,4.8,2.582
+14350,Kempsey,yes,53.7,yes,1,3.2,2.569
+14870,Lithgow,yes,52.5,yes,1,-1.9,2.506
+17850,Walcha,yes,41.2,yes,0,0.2,2.414
+17400,Tenterfield,yes,33.7,yes,3,1.2,2.35
+15650,Muswellbrook,yes,26.8,yes,0,2.2,2.29
+10180,Armidale Regional,yes,28.4,yes,0,0.3,2.287
+16100,Oberon,yes,20.5,yes,0,2.5,2.23
+36580,Somerset,yes,9.3,yes,3,6.3,2.157
+34580,Lockyer Valley,yes,11.7,yes,0,2.9,2.146
+36510,Scenic Rim,yes,9.7,yes,1,4.4,2.141
+26810,Wellington,yes,0.4,yes,7,11,2.117
+14550,Kyogle,yes,7,yes,0,4.3,2.113
+10300,Balranald,yes,0,yes,0,9.7,2.097
+13850,Hay,yes,0,yes,0,9.7,2.097
+17950,Warren,yes,0.4,yes,0,8.5,2.089
+11150,Bourke,yes,0.2,yes,0,8.7,2.089
+12150,Coonamble,yes,0.1,yes,0,8.7,2.088
+10950,Bogan,yes,0,yes,0,8.7,2.087
+11200,Brewarrina,yes,0,yes,0,8.7,2.087
+11750,Cobar,yes,0,yes,0,8.7,2.087
+17900,Walgett,yes,0,yes,0,8.7,2.087
+17310,Tamworth Regional,yes,6.3,yes,3,2.2,2.086
+36660,Southern Downs,yes,4,yes,1,4.2,2.082
+15270,Mid-Western Regional,yes,9.2,yes,0,-1.9,2.073
+14850,Lismore,yes,2.7,yes,1,4.3,2.07
+35800,Paroo,yes,0,yes,0,6.2,2.062
+31820,Bundaberg,yes,3,yes,2,3,2.061
+35760,North Burnett,yes,1.4,yes,0,4.2,2.056
+33610,Goondiwindi,yes,0.4,yes,0,5.1,2.055
+37310,Western Downs,yes,1.4,yes,0,3.9,2.053
+34860,Maranoa,yes,0.1,yes,0,5.1,2.052
+30300,Balonne,yes,0,yes,0,5.1,2.051
+36630,South Burnett,yes,0.6,yes,1,4.2,2.048
+15520,Murray River,yes,0,yes,0,4.8,2.048
+10850,Blayney,yes,0.3,yes,0,4.4,2.047
+36910,Toowoomba,yes,1.2,yes,8,2.7,2.043
+11400,Cabonne,yes,0,yes,0,4.3,2.043
+11600,Carrathool,yes,0,yes,0,4.2,2.042
+12870,Federation,yes,0.1,yes,0,4,2.041
+15800,Narrandera,yes,0.1,yes,0,4,2.041
+10800,Bland,yes,0,yes,0,4,2.04
+12000,Coolamon,yes,0,yes,0,4,2.04
+12350,Cowra,yes,0,yes,0,4,2.04
+12730,Edward River,yes,0,yes,0,4,2.04
+12900,Forbes,yes,0,yes,0,4,2.04
+13910,Hilltops,yes,0,yes,0,4,2.04
+14300,Junee,yes,0,yes,0,4,2.04
+14600,Lachlan,yes,0,yes,0,4,2.04
+14750,Leeton,yes,0,yes,0,4,2.04
+15560,Murrumbidgee,yes,0,yes,0,4,2.04
+16200,Parkes,yes,0,yes,1,4,2.04
+17350,Temora,yes,0,yes,0,4,2.04
+18100,Weddin,yes,0,yes,0,4,2.04
+14950,Lockhart,yes,0,yes,0,3.9,2.039
+12390,Dubbo Regional,yes,0.1,yes,1,3.5,2.036
+13660,Gwydir,yes,2.2,yes,0,1.3,2.035
+12950,Gilgandra,yes,0,yes,0,3.5,2.035
+15850,Narromine,yes,0,yes,1,3.5,2.035
+15750,Narrabri,yes,1.1,yes,0,2.1,2.032
+17650,Uralla,yes,2.6,yes,0,0.3,2.029
+30370,Banana,yes,1.9,yes,0,0.9,2.028
+14920,Liverpool Plains,yes,0.4,yes,0,2.2,2.026
+10470,Bathurst Regional,yes,0.1,yes,0,2.5,2.026
+14220,Inverell,yes,1.2,yes,0,1.2,2.024
+13550,Gunnedah,yes,0,yes,1,2.3,2.023
+15300,Moree Plains,yes,0.1,yes,1,2,2.021
+11250,Broken Hill,yes,0,yes,2,-1.4,1.987
+11700,Central Darling,yes,0,yes,0,-1.4,1.986
+12750,Eurobodalla,no,80.8,yes,7,5.7,1.868
+13800,Hawkesbury,no,73.3,yes,8,2.4,1.761
+16950,Shoalhaven,no,72.2,yes,10,1.7,1.743
+18400,Wollondilly,no,63.9,yes,15,2.8,1.674
+42750,Kangaroo Island,yes,50.7,no,,5.2,1.562
+16380,Port Macquarie-Hastings,no,47.3,yes,1,5.3,1.526
+17080,Snowy Valleys,no,48,yes,0,3.3,1.513
+10900,Blue Mountains,no,48.1,yes,22,1.4,1.505
+17000,Singleton,no,46.2,yes,1,1.8,1.48
+89399,Unincorporated ACT,no,38,yes,117,3.7,1.469
+26670,Towong,no,39.4,yes,0,2.3,1.417
+13010,Glen Innes Severn,no,32.4,yes,0,1.2,1.336
+11720,Cessnock,no,30.4,yes,9,1.8,1.326
+20110,Alpine,no,30.3,yes,1,2.3,1.326
+18350,Wingecarribee,no,26.3,yes,13,3.6,1.305
+15700,Nambucca Valley,no,26.4,yes,0,3.2,1.296
+16490,Queanbeyan-Palerang Regional,no,23.8,yes,0,4.3,1.281
+15240,Mid-Coast,no,23.6,yes,7,2.8,1.267
+35740,Noosa,no,16.3,yes,5,5.4,1.219
+11650,Central Coast,no,17.5,yes,32,2.6,1.215
+17040,Snowy Monaro Regional,yes,13.5,yes,0,6.9,2.204
+10600,Bellingen,no,12.9,yes,0,4.1,1.17
+18050,Waverley,no,0,yes,142,6.5,1.128
+31000,Brisbane,no,4.6,yes,109,3.1,1.126
+12850,Fairfield,no,0,yes,120,6.9,1.122
+17200,Sydney,no,0,yes,109,7.1,1.12
+54900,Lake Grace,yes,9.7,no,1,2.1,1.118
+33620,Gympie,no,6.8,yes,2,4.9,1.118
+11350,Byron,no,5.1,yes,2,6.5,1.117
+34530,Livingstone,no,9.1,yes,0,2.3,1.114
+24780,Mildura,yes,0,no,3,11.1,1.112
+53290,Esperance,yes,9,no,1,2.1,1.111
+12380,Cumberland,no,0,yes,110,5.5,1.104
+11570,Canterbury-Bankstown,no,0,yes,101,5.7,1.102
+53640,Gnowangerup,yes,6.4,no,1,3.4,1.098
+62010,Flinders,yes,1.5,no,,7.9,1.097
+18200,Wentworth,yes,0,no,0,9.7,1.097
+52730,Denmark,yes,5.9,no,1,3.4,1.093
+33430,Gold Coast,no,1,yes,69,4.8,1.089
+19399,Unincorporated NSW,no,0,yes,0,8.9,1.089
+33360,Gladstone,no,6.8,yes,1,2,1.088
+14900,Liverpool,no,0.3,yes,97,4.2,1.088
+10250,Ballina,no,2.1,yes,3,6.5,1.087
+11800,Coffs Harbour,no,4.3,yes,4,4.1,1.086
+18500,Woollahra,no,0,yes,43,6.5,1.084
+33220,Fraser Coast,no,3.9,yes,2,4.1,1.081
+13310,Goulburn Mulwaree,no,3.9,yes,5,3.9,1.08
+25990,Pyrenees,yes,0.8,no,3,7,1.079
+16550,Randwick,no,0,yes,63,5,1.078
+10500,Bayside,no,0,yes,50,5.6,1.078
+70420,Barkly,yes,0.2,no,0,7.5,1.077
+13340,Greater Hume Shire,no,5.7,yes,0,1.9,1.076
+16350,Penrith,no,0.7,yes,90,2.9,1.076
+17420,The Hills Shire,no,2.1,yes,50,3.2,1.075
+57210,Plantagenet,yes,4,no,1,3.4,1.074
+10750,Blacktown,no,0.4,yes,89,3,1.074
+24250,Mansfield,no,0.9,yes,8,6.1,1.074
+17640,Upper Lachlan Shire,no,3.4,yes,0,3.9,1.073
+26700,Wangaratta,yes,3.4,no,1,3.8,1.072
+61610,Devonport,yes,0,no,,6.8,1.071
+63810,Latrobe,yes,0,no,,6.8,1.071
+12930,Georges River,no,0,yes,45,5,1.07
+30410,Barcaldine,yes,0.5,no,0,6.2,1.067
+33200,Flinders,yes,1.4,no,0,5.2,1.066
+14000,Hornsby,no,1.8,yes,37,3.2,1.066
+52870,Donnybrook-Balingup,yes,2.1,no,1,4.4,1.065
+48830,Yorke Peninsula,yes,1.2,no,,5,1.065
+12700,Dungog,no,4.6,yes,2,1.8,1.065
+16700,Ryde,no,0,yes,52,4.2,1.065
+14170,Inner West,no,0,yes,50,4.3,1.065
+23810,Latrobe,yes,0,no,49,4.2,1.064
+35600,Murweh,yes,0.2,no,0,6.2,1.064
+26610,Swan Hill,yes,0,no,2,6.3,1.064
+16260,Parramatta,no,0,yes,61,3.7,1.064
+30760,Blackall-Tambo,no,0.2,yes,0,6.2,1.064
+21270,Buloke,yes,0,no,0,6.3,1.063
+22250,Gannawarra,yes,0,no,1,6.3,1.063
+11500,Campbelltown,no,0,yes,51,4,1.063
+54340,Katanning,yes,2.8,no,1,3.4,1.062
+26430,Strathbogie,yes,0.1,no,0,6.1,1.062
+30450,Barcoo,yes,0,no,0,6.2,1.062
+30900,Boulia,yes,0,no,0,6.2,1.062
+31750,Bulloo,yes,0,no,0,6.2,1.062
+32750,Diamantina,yes,0,no,0,6.2,1.062
+34710,Longreach,yes,0,no,0,6.2,1.062
+36150,Quilpie,yes,0,no,0,6.2,1.062
+37400,Winton,yes,0,no,0,6.2,1.062
+17750,Wagga Wagga,no,1.9,yes,6,4,1.062
+41960,Franklin Harbour,yes,1.5,no,,4.2,1.06
+27630,Yarriambiack,yes,0,no,1,6,1.06
+47800,The Coorong,yes,1.6,no,,4,1.059
+36720,Sunshine Coast,no,1.2,yes,9,4.3,1.059
+56300,Nannup,yes,1.4,no,1,4.4,1.058
+36300,Richmond,yes,0.6,no,0,5.2,1.058
+17550,Tweed,no,1.3,yes,2,4.4,1.058
+27260,Wyndham,no,0,no,2243,5.6,1.056
+50840,Bridgetown-Greenbushes,yes,1.2,no,1,4.4,1.056
+17150,Sutherland Shire,no,0,yes,61,2.9,1.056
+17100,Strathfield,no,0,yes,15,4.9,1.056
+40220,Alexandrina,yes,0,no,,5.2,1.055
+47630,Tatiara,yes,0,no,,5.2,1.055
+15990,Northern Beaches,no,0,yes,48,3.4,1.055
+34770,Mackay,no,3.2,yes,2,2.1,1.054
+57420,Ravensthorpe,yes,3.2,no,1,2.1,1.053
+41560,Copper Coast,yes,0,no,,5,1.053
+14650,Lake Macquarie,no,2.9,yes,20,1.5,1.053
+34800,McKinlay,yes,0,no,0,5.2,1.052
+11520,Canada Bay,no,0,yes,32,3.8,1.052
+34590,Logan,no,0.1,yes,24,3.9,1.051
+11300,Burwood,no,0,yes,7,4.8,1.051
+40310,Barossa,yes,0,no,,4.7,1.05
+54060,Irwin,yes,0.3,no,1,4.7,1.05
+33960,Ipswich,no,0.1,yes,34,3.4,1.05
+51470,Carnamah,yes,0.2,no,1,4.7,1.049
+17620,Upper Hunter Shire,no,2.7,yes,0,2.2,1.049
+11450,Camden,no,0,yes,42,3,1.049
+15950,North Sydney,no,0,yes,20,4,1.049
+14500,Ku-ring-gai,no,0,yes,37,3.2,1.048
+35010,Moreton Bay,no,0.7,yes,11,3.6,1.048
+14100,Hunters Hill,no,0,yes,14,4.2,1.048
+22830,Greater Shepparton,yes,0,no,44,2.7,1.047
+45040,Murray Bridge,yes,0.4,no,,4,1.047
+52030,Coorow,yes,0,no,1,4.7,1.047
+55530,Mingenew,yes,0,no,1,4.7,1.047
+58260,Three Springs,yes,0,no,1,4.7,1.047
+14700,Lane Cove,no,0,yes,19,3.9,1.047
+12160,Cootamundra-Gundagai Regional,no,0.7,yes,0,4,1.047
+43650,Light,yes,0.1,no,,4.2,1.046
+16150,Orange,no,0,yes,5,4.4,1.046
+41010,Ceduna,yes,0,no,,4.2,1.045
+41190,Cleve,yes,0,no,,4.2,1.045
+43220,Kimba,yes,0,no,,4.2,1.045
+47490,Streaky Bay,yes,0,no,,4.2,1.045
+48640,Wudinna,yes,0,no,,4.2,1.045
+16400,Port Stephens,no,0.6,yes,10,3.5,1.045
+47290,Southern Mallee,yes,0.1,no,,4,1.044
+18250,Willoughby,no,0,yes,11,3.9,1.044
+15350,Mosman,no,0,yes,10,4,1.044
+43080,Karoonda East Murray,yes,0,no,,4,1.043
+43790,Loxton Waikerie,yes,0,no,,4,1.043
+44210,Mid Murray,yes,0,no,,4,1.043
+46670,Renmark Paringa,yes,0,no,,4,1.043
+54310,Karratha,no,2.5,yes,1,1.8,1.043
+40430,Barunga West,yes,0.1,no,,3.8,1.042
+48130,Wakefield,yes,0.1,no,,3.8,1.042
+52240,Cranbrook,yes,0.7,no,1,3.4,1.041
+40150,Adelaide Plains,yes,0,no,,3.8,1.041
+41140,Clare and Gilbert Valleys,yes,0,no,,3.8,1.041
+42110,Goyder,yes,0,no,,3.8,1.041
+10650,Berrigan,yes,0,no,3,4,1.041
+36250,Redland,no,1.9,yes,5,2,1.041
+18710,Yass Valley,no,0,yes,0,4.1,1.041
+13450,Griffith,no,0,yes,0,4,1.04
+70620,Central Desert,yes,0.1,no,0,3.7,1.038
+21010,Benalla,yes,0,no,0,3.8,1.038
+50080,Albany,yes,0.3,no,1,3.4,1.037
+32270,Central Highlands,no,1.4,yes,1,2.3,1.037
+50250,Ashburton,no,1.7,yes,1,1.8,1.035
+51080,Broomehill-Tambellup,yes,0,no,1,3.4,1.034
+54130,Jerramungup,yes,0,no,1,3.4,1.034
+54480,Kent,yes,0,no,1,3.4,1.034
+54550,Kojonup,yes,0,no,1,3.4,1.034
+52590,Dandaragan,yes,0.2,no,1,2.9,1.031
+24900,Moira,yes,0,no,3,3,1.031
+15900,Newcastle,no,0,yes,16,2.3,1.03
+27170,Wodonga,no,0.7,yes,1,2.3,1.03
+18020,Warrumbungle Shire,no,0.6,yes,0,2.4,1.03
+50560,Beverley,yes,0,no,1,2.9,1.029
+51120,Bruce Rock,yes,0,no,1,2.9,1.029
+54410,Kellerberrin,yes,0,no,1,2.9,1.029
+55600,Moora,yes,0,no,1,2.9,1.029
+56370,Narembeen,yes,0,no,1,2.9,1.029
+57350,Quairading,yes,0,no,1,2.9,1.029
+33980,Isaac,no,0.4,yes,0,2.5,1.029
+18450,Wollongong,no,0.1,yes,12,2.2,1.028
+36370,Rockhampton,no,0.5,yes,1,2.3,1.028
+23350,Indigo,no,0,yes,1,2.8,1.028
+41830,Flinders Ranges,yes,0,no,,2.3,1.026
+51260,Busselton,yes,0.9,no,1,1.4,1.023
+37550,Woorabinda,no,0,yes,0,2.3,1.023
+44830,Mount Remarkable,yes,0.1,no,,1.8,1.022
+45120,Northern Areas,yes,0.1,no,,1.8,1.022
+45400,Orroroo/Carrieton,yes,0,no,,1.8,1.021
+45540,Peterborough,yes,0,no,,1.8,1.021
+50910,Brookton,yes,0,no,1,2.1,1.021
+52100,Corrigin,yes,0,no,1,2.1,1.021
+53010,Dumbleyung,yes,0,no,1,2.1,1.021
+54760,Kulin,yes,0,no,1,2.1,1.021
+57140,Pingelly,yes,0,no,1,2.1,1.021
+59100,Wickepin,yes,0,no,1,2.1,1.021
+10050,Albury,no,0,yes,3,1.8,1.019
+15050,Maitland,no,0,yes,5,1.2,1.014
+16900,Shellharbour,no,0,yes,4,0.8,1.01
+14400,Kiama,no,0,yes,1,0.9,1.009
+21180,Brimbank,no,0,no,1991,8,0.968
+70540,Belyuen,no,82.9,no,0,6.8,0.897
+23270,Hume,no,0.4,no,1630,6.7,0.798
+35670,Napranum,no,74.9,no,0,1.3,0.762
+30250,Aurukun,no,62.2,no,0,1.3,0.635
+36070,Pormpuraaw,no,57.2,no,0,1.3,0.585
+27070,Whittlesea,no,0,no,1192,5.4,0.585
+24650,Melton,no,0,no,1137,5.8,0.565
+34420,Kowanyama,no,51.5,no,0,1.3,0.528
+25250,Moreland,no,0,no,1015,7.3,0.526
+74660,West Arnhem,no,45.3,no,0,6.8,0.521
+24600,Melbourne,no,0,no,855,13.2,0.513
+21610,Casey,no,0,no,1004,6.1,0.509
+74680,West Daly,no,43.1,no,0,6.8,0.499
+70700,Coomalie,no,38.7,no,0,6.8,0.455
+79399,Unincorporated NT,no,41.4,no,0,3.6,0.45
+32500,Cook,no,41.3,no,0,1.3,0.426
+25060,Moonee Valley,no,0,no,787,6.4,0.415
+59340,Wyndham-East Kimberley,no,35,no,1,4.1,0.391
+72300,Litchfield,no,33.8,no,0,2.5,0.363
+34880,Mareeba,no,32.6,no,0,3.1,0.357
+21890,Darebin,no,0,no,644,6.8,0.355
+24330,Maribyrnong,no,0,no,588,7.8,0.34
+71300,East Arnhem,no,30.5,no,0,2.7,0.332
+22670,Greater Dandenong,no,0,no,529,8.6,0.322
+34830,Mapoon,no,30.7,no,0,1.3,0.32
+74050,Tiwi Islands,no,23.8,no,0,6.8,0.306
+34570,Lockhart River,no,27.9,no,0,1.3,0.292
+32250,Carpentaria,no,22.2,no,0,5.2,0.274
+23110,Hobsons Bay,no,0,no,490,5.6,0.274
+27350,Yarra,no,0,no,447,6.7,0.266
+74550,Victoria Daly,no,18,no,0,5.6,0.236
+74560,Wagait,no,16.7,no,0,6.8,0.235
+54620,Kondinin,no,20.8,no,1,2.1,0.229
+20660,Banyule,no,0,no,437,3,0.225
+36820,Tablelands,no,17.8,no,0,4,0.218
+40120,Adelaide Hills,no,19.1,no,,2.2,0.216
+24970,Monash,no,0,no,317,6.6,0.207
+73600,Roper Gulf,no,15.3,no,0,5,0.203
+22750,Greater Geelong,no,0,no,319,5.8,0.2
+25900,Port Phillip,no,0,no,263,7.9,0.196
+23430,Kingston,no,0,no,285,6.4,0.191
+37570,Wujal Wujal,no,16.7,no,0,1.3,0.18
+52800,Derby-West Kimberley,no,13.2,no,1,4.1,0.173
+35250,Mornington,no,11.8,no,0,5.2,0.17
+20910,Bayside,no,0,no,227,6.4,0.165
+22170,Frankston,no,0,no,227,6.4,0.165
+58760,Wanneroo,no,14.6,no,1,1.8,0.164
+33100,Etheridge,no,15,no,0,1.3,0.163
+27450,Yarra Ranges,no,0,no,232,5.8,0.161
+35780,Northern Peninsula Area,no,14.7,no,0,1.3,0.16
+26350,Stonnington,no,0,no,201,6.8,0.158
+21110,Boroondara,no,0,no,236,5.1,0.156
+22310,Glen Eira,no,0,no,199,6.7,0.156
+26980,Whitehorse,no,0,no,208,6.2,0.155
+60210,Break O'Day,no,6.6,no,,7.9,0.148
+21450,Cardinia,no,0,no,192,6.1,0.147
+44550,Mount Barker,no,11.9,no,,2.2,0.144
+21750,Colac-Otway,no,0.1,no,136,7.4,0.136
+72200,Katherine,no,8.2,no,0,5,0.132
+25340,Mornington Peninsula,no,0,no,145,6.7,0.132
+62410,Glamorgan/Spring Bay,no,1.9,no,,10.7,0.129
+32770,Doomadgee,no,7.6,no,0,5.2,0.128
+43360,Kingston,no,6.8,no,,5.2,0.123
+23670,Knox,no,0,no,154,5.4,0.123
+24210,Manningham,no,0,no,148,5.5,0.121
+65210,Tasman,no,0.5,no,,10.7,0.115
+72800,Palmerston,no,9.4,no,0,1.9,0.113
+33800,Hinchinbrook,no,9,no,0,1.7,0.107
+37300,Weipa,no,9.1,no,0,1.3,0.104
+22620,Greater Bendigo,no,0.1,no,91,6.1,0.103
+50980,Broome,no,6.1,no,1,4.1,0.102
+53080,Dundas,no,7.3,no,1,2.8,0.101
+24410,Maroondah,no,0,no,99,5.5,0.099
+25150,Moorabool,no,0,no,36,8.3,0.099
+24850,Mitchell,no,0,no,82,6,0.097
+25710,Nillumbik,no,0,no,129,3.6,0.094
+37010,Townsville,no,5.3,no,1,3.9,0.092
+22910,Hepburn,no,0.1,no,0,9.1,0.092
+65010,Southern Midlands,no,0.5,no,,7.8,0.086
+26170,South Gippsland,no,0,no,8,8.2,0.086
+24130,Macedon Ranges,no,0.1,no,50,6.2,0.085
+20740,Bass Coast,no,0,no,7,8.2,0.085
+20570,Ballarat,no,0,no,49,6.1,0.083
+64610,Northern Midlands,no,0.1,no,,7.9,0.083
+51890,Collie,no,6.7,no,1,1.5,0.082
+61010,Central Highlands,no,0.1,no,,7.8,0.082
+61810,Dorset,no,0,no,,7.9,0.082
+62210,George Town,no,0,no,,7.9,0.082
+65810,West Tamar,no,0.3,no,,7.3,0.079
+64210,Meander Valley,no,0,no,,7.6,0.079
+52660,Dardanup,no,6.3,no,1,1.5,0.078
+22490,Golden Plains,no,0.3,no,19,6.7,0.078
+54970,Laverton,no,4.9,no,1,2.8,0.077
+61510,Derwent Valley,no,0.7,no,,6.5,0.075
+21830,Corangamite,no,0,no,2,7.4,0.075
+25430,Mount Alexander,no,0,no,3,7.4,0.075
+20830,Baw Baw,no,0,no,11,6.8,0.073
+31950,Burke,no,1.9,no,0,5.2,0.071
+63210,Kentish,no,0,no,,6.8,0.071
+23940,Loddon,no,0,no,4,6.9,0.071
+21670,Central Goldfields,no,0,no,2,7,0.071
+53570,Gingin,no,4.1,no,1,2.9,0.07
+65610,West Coast,no,0.7,no,,6,0.07
+61210,Circular Head,no,0.6,no,,6,0.069
+26490,Surf Coast,no,0,no,9,6.5,0.069
+22410,Glenelg,no,1.1,no,20,4.8,0.068
+50210,Armadale,no,5.2,no,1,1.5,0.067
+23190,Horsham,no,0.1,no,13,6,0.067
+36950,Torres,no,5.2,no,0,1.3,0.065
+54280,Kalgoorlie/Boulder,no,3.6,no,1,2.8,0.064
+59360,Yilgarn,no,3.5,no,1,2.9,0.064
+44000,Maralinga Tjarutja,no,1.9,no,,4.2,0.064
+26890,West Wimmera,no,0.4,no,0,6,0.064
+26080,Queenscliffe,no,0,no,2,6.3,0.064
+35300,Mount Isa,no,1.1,no,0,5.2,0.063
+60810,Central Coast,no,0,no,,6,0.063
+63410,King Island,no,0,no,,6,0.063
+65410,Waratah/Wynyard,no,0,no,,6,0.063
+20260,Ararat,no,0,no,5,6.1,0.063
+57700,Serpentine-Jarrahdale,no,4,no,1,2.2,0.062
+60610,Burnie,no,0,no,,5.9,0.062
+64010,Launceston,no,0,no,,5.9,0.062
+32810,Douglas,no,2.2,no,0,3.9,0.061
+22980,Hindmarsh,no,0.1,no,0,6,0.061
+40070,Adelaide,no,0,no,,5.7,0.06
+25810,Northern Grampians,no,0,no,1,6,0.06
+32080,Cairns,no,1.4,no,11,4,0.059
+21370,Campaspe,no,0.2,no,8,5.3,0.059
+32310,Charters Towers,no,4.1,no,0,1.7,0.058
+48750,Yankalilla,no,0.3,no,,5.2,0.058
+25620,Murrindindi,no,0,no,7,5.5,0.058
+33830,Hope Vale,no,4.3,no,0,1.3,0.056
+48340,Wattle Range,no,0.1,no,,5.2,0.056
+58540,Victoria Plains,no,2.6,no,1,2.9,0.055
+50770,Boyup Brook,no,1.1,no,1,4.4,0.055
+42250,Grant,no,0,no,,5.2,0.055
+44620,Mount Gambier,no,0,no,,5.2,0.055
+45090,Naracoorte and Lucindale,no,0,no,,5.2,0.055
+46860,Robe,no,0,no,,5.2,0.055
+48050,Victor Harbor,no,0,no,,5.2,0.055
+32450,Cloncurry,no,0.2,no,0,5.2,0.054
+53920,Halls Creek,no,1.1,no,1,4.1,0.052
+64810,Sorell,no,0,no,,4.9,0.052
+51960,Coolgardie,no,2.3,no,1,2.8,0.051
+55250,Meekatharra,no,0.4,no,1,4.7,0.051
+57280,Port Hedland,no,1.5,no,1,3.5,0.05
+62810,Hobart,no,0,no,,4.7,0.05
+40250,Anangu Pitjantjatjara,no,2.3,no,,2.3,0.049
+29399,Unincorporated Vic,no,0.4,no,0,4.5,0.049
+60410,Brighton,no,0,no,,4.6,0.049
+61410,Clarence,no,0,no,,4.6,0.049
+57630,Sandstone,no,0.2,no,1,4.7,0.049
+71000,Darwin,no,2.7,no,4,1.9,0.048
+55180,Manjimup,no,0.4,no,1,4.4,0.048
+59250,Wiluna,no,0.1,no,1,4.7,0.048
+26260,Southern Grampians,no,0,no,1,4.8,0.048
+51610,Chapman Valley,no,0,no,1,4.7,0.047
+52380,Cue,no,0,no,1,4.7,0.047
+53800,Greater Geraldton,no,0,no,1,4.7,0.047
+55670,Morawa,no,0,no,1,4.7,0.047
+55810,Mount Magnet,no,0,no,1,4.7,0.047
+56160,Murchison,no,0,no,1,4.7,0.047
+56790,Northampton,no,0,no,1,4.7,0.047
+57000,Perenjori,no,0,no,1,4.7,0.047
+59350,Yalgoo,no,0,no,1,4.7,0.047
+41750,Elliston,no,0.1,no,,4.2,0.046
+43710,Lower Eyre Peninsula,no,0.1,no,,4.2,0.046
+25490,Moyne,no,0.9,no,1,3.6,0.045
+46300,Port Lincoln,no,0,no,,4.2,0.045
+47910,Tumby Bay,no,0,no,,4.2,0.045
+48540,Whyalla,no,0,no,,4.2,0.045
+63010,Huon Valley,no,0,no,,4.2,0.045
+37340,Whitsunday,no,0.7,no,1,3.7,0.044
+53220,East Pilbara,no,0.8,no,1,3.5,0.043
+40520,Berri and Barmera,no,0,no,,4,0.043
+32600,Croydon,no,2.9,no,0,1.3,0.042
+62610,Glenorchy,no,0,no,,3.9,0.042
+32330,Cherbourg,no,0,no,0,4.2,0.042
+26730,Warrnambool,no,0,no,9,3.6,0.04
+56090,Mundaring,no,2.3,no,1,1.6,0.039
+32260,Cassowary Coast,no,1.3,no,0,2.5,0.038
+59320,Woodanilling,no,0.3,no,1,3.4,0.037
+42030,Gawler,no,0,no,,3.3,0.036
+55390,Menzies,no,0.7,no,1,2.8,0.035
+72330,MacDonnell,no,0.2,no,0,3.2,0.034
+56230,Murray,no,1.4,no,1,1.8,0.032
+56620,Ngaanyatjarraku,no,0.4,no,1,2.8,0.032
+55880,Mount Marshall,no,0.3,no,1,2.9,0.032
+56730,Northam,no,0.3,no,1,2.9,0.032
+50490,Belmont,no,0,no,1,3.2,0.032
+57980,Subiaco,no,0,no,1,3.2,0.032
+58510,Victoria Park,no,0,no,1,3.2,0.032
+58570,Vincent,no,0,no,1,3.2,0.032
+70200,Alice Springs,no,0,no,0,3.2,0.032
+63610,Kingborough,no,0.1,no,,2.7,0.031
+45680,Playford,no,0,no,,2.7,0.03
+55040,Leonora,no,0.2,no,1,2.8,0.03
+58330,Toodyay,no,0.1,no,1,2.9,0.03
+59310,Wongan-Ballidu,no,0.1,no,1,2.9,0.03
+49399,Unincorporated SA,no,0.1,no,,2.5,0.029
+45890,Port Adelaide Enfield,no,0,no,,2.6,0.029
+51680,Chittering,no,0,no,1,2.9,0.029
+52450,Cunderdin,no,0,no,1,2.9,0.029
+52520,Dalwallinu,no,0,no,1,2.9,0.029
+52940,Dowerin,no,0,no,1,2.9,0.029
+53150,East Fremantle,no,0,no,1,2.9,0.029
+53430,Fremantle,no,0,no,1,2.9,0.029
+53710,Goomalling,no,0,no,1,2.9,0.029
+54690,Koorda,no,0,no,1,2.9,0.029
+55460,Merredin,no,0,no,1,2.9,0.029
+55950,Mukinbudin,no,0,no,1,2.9,0.029
+56860,Nungarin,no,0,no,1,2.9,0.029
+58190,Tammin,no,0,no,1,2.9,0.029
+58400,Trayning,no,0,no,1,2.9,0.029
+59030,Westonia,no,0,no,1,2.9,0.029
+59330,Wyalkatchem,no,0,no,1,2.9,0.029
+59370,York,no,0,no,1,2.9,0.029
+51330,Canning,no,0,no,1,2.8,0.028
+57080,Perth,no,0,no,1,2.7,0.027
+45340,Onkaparinga,no,0.2,no,,2.1,0.026
+41330,Coober Pedy,no,0,no,,2.3,0.026
+46090,Port Augusta,no,0,no,,2.3,0.026
+46970,Roxby Downs,no,0,no,,2.3,0.026
+47140,Salisbury,no,0,no,,2.3,0.026
+41060,Charles Sturt,no,0,no,,2.2,0.025
+45290,Norwood Payneham St Peters,no,0,no,,2.2,0.025
+37600,Yarrabah,no,0,no,0,2.5,0.025
+53990,Harvey,no,0.9,no,1,1.5,0.024
+54830,Kwinana,no,0.8,no,1,1.6,0.024
+40910,Campbelltown,no,0,no,,2.1,0.024
+53780,Gosnells,no,0,no,1,2.4,0.024
+57910,Stirling,no,0,no,1,2.4,0.024
+42600,Holdfast Bay,no,0,no,,2,0.023
+44060,Marion,no,0,no,,2,0.023
+48410,West Torrens,no,0,no,,2,0.023
+58680,Wandering,no,0.2,no,1,2.1,0.023
+50350,Bassendean,no,0,no,1,2.3,0.023
+50420,Bayswater,no,0,no,1,2.3,0.023
+54200,Kalamunda,no,0.9,no,1,1.2,0.021
+58820,Waroona,no,0.6,no,1,1.5,0.021
+46450,Port Pirie City and Dists,no,0,no,,1.8,0.021
+50630,Boddington,no,0,no,1,2.1,0.021
+51310,Cambridge,no,0,no,1,2.1,0.021
+52310,Cuballing,no,0,no,1,2.1,0.021
+56460,Narrogin,no,0,no,1,2.1,0.021
+58610,Wagin,no,0,no,1,2.1,0.021
+58890,West Arthur,no,0,no,1,2.1,0.021
+59170,Williams,no,0,no,1,2.1,0.021
+58050,Swan,no,0.4,no,1,1.4,0.018
+40700,Burnside,no,0,no,,1.5,0.018
+31900,Burdekin,no,0.1,no,0,1.7,0.018
+55110,Mandurah,no,0,no,1,1.8,0.018
+57840,South Perth,no,0,no,1,1.8,0.018
+46510,Prospect,no,0,no,,1.4,0.017
+47700,Tea Tree Gully,no,0,no,,1.4,0.017
+48260,Walkerville,no,0,no,,1.4,0.017
+35790,Palm Island,no,0,no,0,1.7,0.017
+51820,Cockburn,no,0,no,1,1.7,0.017
+44340,Mitcham,no,0,no,,1.3,0.016
+47980,Unley,no,0,no,,1.2,0.015
+51540,Carnarvon,no,0.1,no,1,1.4,0.015
+51190,Bunbury,no,0,no,1,1.5,0.015
+51400,Capel,no,0,no,1,1.5,0.015
+57490,Rockingham,no,0.4,no,1,1,0.014
+50280,Augusta-Margaret River,no,0,no,1,1.4,0.014
+51750,Claremont,no,0,no,1,1.4,0.014
+52170,Cottesloe,no,0,no,1,1.4,0.014
+53360,Exmouth,no,0,no,1,1.4,0.014
+55740,Mosman Park,no,0,no,1,1.4,0.014
+56580,Nedlands,no,0,no,1,1.4,0.014
+56930,Peppermint Grove,no,0,no,1,1.4,0.014
+57770,Shark Bay,no,0,no,1,1.4,0.014
+58470,Upper Gascoyne,no,0,no,1,1.4,0.014
+36960,Torres Strait Island,no,0,no,0,1.3,0.013
+55320,Melville,no,0,no,1,1.1,0.011
+54170,Joondalup,no,0,no,1,1,0.01
+19499,No usual address,,,,,,
+19799,Migratory - Offshore - Shipping,,,,,,
+29499,No usual address,,,,,,
+29799,Migratory - Offshore - Shipping,,,,,,
+39499,No usual address,,,,,,
+39799,Migratory - Offshore - Shipping,,,,,,
+49499,No usual address,,,,,,
+49799,Migratory - Offshore - Shipping,,,,,,
+59499,No usual address,,,,,,
+59799,Migratory - Offshore - Shipping,,,,,,
+69499,No usual address,,,,,,
+69799,Migratory - Offshore - Shipping,,,,,,
+79499,No usual address,,,,,,
+79799,Migratory - Offshore - Shipping,,,,,,
+89499,No usual address,,,,,,
+89799,Migratory - Offshore - Shipping,,,,,,
+99499,No usual address,,,,,,
+99799,Migratory - Offshore - Shipping,,,,,,
+99399,Unincorp. Other Territories,,,,,,

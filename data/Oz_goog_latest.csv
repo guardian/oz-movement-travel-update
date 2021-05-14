@@ -1,0 +1,293 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+AU,Australia,New South Wales,Armidale Dumaresq Council,,,,ChIJPXdpvMSnn2sRamkBGce1LIM,2021-04-29,12.0,,,,1.0,
+AU,Australia,New South Wales,Ballina Shire Council,,,,ChIJGSMhcwKCkGsRWLKq2JtdcD0,2021-04-29,2.0,22.0,-13.0,1.0,11.0,1.0
+AU,Australia,New South Wales,Bankstown City Council,,,,ChIJBUCbNJ6-EmsRKjYZthGxB6w,2021-04-29,-4.0,15.0,39.0,-21.0,-8.0,3.0
+AU,Australia,New South Wales,Bathurst Regional Council,,,,ChIJX9HZN_boEWsR2XS1xfFaJRs,2021-04-29,9.0,13.0,,,3.0,1.0
+AU,Australia,New South Wales,Bayside Council,,,,ChIJAzZME7CwEmsRwZ71IjMR7s4,2021-04-29,-12.0,7.0,-10.0,-44.0,-19.0,6.0
+AU,Australia,New South Wales,Bega Valley Shire Council,,,,ChIJCxhJUUsiPGsRvVK1j54XWd4,2021-04-29,-1.0,,-3.0,,9.0,0.0
+AU,Australia,New South Wales,Bellingen Shire Council,,,,ChIJ8aCTwS6inmsRLgCilfSGS00,2021-04-29,,,,,13.0,
+AU,Australia,New South Wales,Blue Mountains City Council,,,,ChIJY0PVRG96EmsRNFJja1O7WIk,2021-04-29,4.0,-9.0,7.0,-30.0,-1.0,2.0
+AU,Australia,New South Wales,Broken Hill City Council,,,,ChIJ05vCeHuu7moRt5SUOJuE2DA,2021-04-29,,,,,11.0,
+AU,Australia,New South Wales,Burwood Council,,,,ChIJr-TL0-e6EmsR3I14-kqg-gY,2021-04-29,-14.0,40.0,,-26.0,-16.0,7.0
+AU,Australia,New South Wales,Byron Shire Council,,,,ChIJ6bc5ArOOkGsR6SOBwJwRST0,2021-04-29,-25.0,-37.0,-48.0,,-13.0,2.0
+AU,Australia,New South Wales,Cabonne Shire Council,,,,ChIJt47h5LQgEGsRCO0YWBJltu8,2021-04-29,,,,,-5.0,
+AU,Australia,New South Wales,Camden Council,,,,ChIJ2x-Hx4PxEmsRw6mpOyYhgGY,2021-04-29,7.0,40.0,38.0,-20.0,0.0,2.0
+AU,Australia,New South Wales,Campbelltown City Council,,,,ChIJO9s-6t3uEmsRmDDk_5-6CIo,2021-04-29,11.0,4.0,50.0,-11.0,7.0,3.0
+AU,Australia,New South Wales,Canterbury City Council,,,,ChIJww7FgzW6EmsRAhn8AfiQpdM,2021-04-29,0.0,17.0,15.0,-18.0,-11.0,5.0
+AU,Australia,New South Wales,Cessnock City Council,,,,ChIJ4cbhORjODGsR4C1t-k38DPM,2021-04-29,13.0,11.0,18.0,-23.0,10.0,0.0
+AU,Australia,New South Wales,City of Albury,,,,ChIJ3Y4G67DfI2sR5brwMKzxZ54,2021-04-29,-9.0,3.0,-12.0,-23.0,2.0,1.0
+AU,Australia,New South Wales,City of Blacktown,,,,ChIJpQ49a2CZEmsRp7XMLX24No8,2021-04-29,-10.0,24.0,27.0,-14.0,-9.0,4.0
+AU,Australia,New South Wales,City of Canada Bay Council,,,,ChIJkcdwokGlEmsRpT9rZWITGcg,2021-04-29,-9.0,3.0,34.0,-26.0,-19.0,6.0
+AU,Australia,New South Wales,City of Lake Macquarie,,,,ChIJMV4wtJclc2sRgAwgxeIxwWQ,2021-04-29,2.0,14.0,-9.0,-28.0,1.0,1.0
+AU,Australia,New South Wales,City of Liverpool,,,,ChIJlX7sTCztEmsRL-WN38riqm4,2021-04-29,8.0,27.0,20.0,-3.0,4.0,2.0
+AU,Australia,New South Wales,City of Parramatta Council,,,,ChIJI--5QjyjEmsRjG1p5RCjiEE,2021-04-29,-13.0,-8.0,10.0,-18.0,-23.0,7.0
+AU,Australia,New South Wales,City of Ryde,,,,ChIJizrHxcClEmsR1RwC4pxrJPo,2021-04-29,-9.0,-3.0,24.0,-12.0,-5.0,7.0
+AU,Australia,New South Wales,City of Shoalhaven,,,,ChIJUVKXrVhdFGsR_Y4nOuM8dAk,2021-04-29,-3.0,-1.0,-20.0,-16.0,12.0,0.0
+AU,Australia,New South Wales,City of Willoughby,,,,ChIJRbGGtiqpEmsRNju32_6ErrE,2021-04-29,-15.0,6.0,29.0,-21.0,-18.0,8.0
+AU,Australia,New South Wales,Clarence Valley Council,,,,ChIJX4v_CQJhmWsRsz-zSqw5fQU,2021-04-29,-15.0,13.0,-18.0,-11.0,11.0,1.0
+AU,Australia,New South Wales,Coffs Harbour City Council,,,,ChIJLZJAg2QInGsRYzM5OCwva5M,2021-04-29,-11.0,-22.0,-28.0,-26.0,2.0,0.0
+AU,Australia,New South Wales,Cooma-Monaro Council,,,,ChIJ89PVjpAJPWsRildtsWuikmw,2021-04-29,,,,,17.0,
+AU,Australia,New South Wales,Corowa Shire Council,,,,ChIJ98txM_AYIWsR6wUYLiJezQg,2021-04-29,,,,,4.0,
+AU,Australia,New South Wales,Council of the City of Sydney,,,,ChIJl9aAttixEmsR8d2wSrqVi5k,2021-04-29,-28.0,-26.0,-25.0,-32.0,-20.0,8.0
+AU,Australia,New South Wales,Cowra Shire Council,,,,ChIJI1WJJoDzEGsRiGLNz-q51Eo,2021-04-29,,,,,11.0,
+AU,Australia,New South Wales,Cumberland Council,,,,ChIJ3Wj2blO9EmsRg1QU6eGF7Sg,2021-04-29,-9.0,-5.0,11.0,-19.0,-17.0,4.0
+AU,Australia,New South Wales,Dubbo City Council,,,,ChIJm-1W6PZyD2sRSmWLbcNIGDg,2021-04-29,7.0,11.0,,,7.0,0.0
+AU,Australia,New South Wales,Eurobodalla Shire Council,,,,ChIJM0B33S7_FWsRz6_QUh459dE,2021-04-29,4.0,4.0,-4.0,,11.0,2.0
+AU,Australia,New South Wales,Fairfield City Council,,,,ChIJpVme8fOWEmsRuC6XImfst8Y,2021-04-29,-4.0,24.0,45.0,-12.0,-1.0,2.0
+AU,Australia,New South Wales,Goulburn Mulwaree Council,,,,ChIJkZ12eUccFGsR_-_Tw9ce0AY,2021-04-29,-10.0,-7.0,,,9.0,0.0
+AU,Australia,New South Wales,Griffith City Council,,,,ChIJ-wyMwgKwH2sRMRv_jdSXTdA,2021-04-29,-2.0,3.0,,,9.0,2.0
+AU,Australia,New South Wales,Gunnedah Shire Council,,,,ChIJB3I0dWERCmsR_mSy89QA4nw,2021-04-29,,,,,1.0,
+AU,Australia,New South Wales,Hawkesbury City Council,,,,ChIJFwozjJBtDWsRpmJo5NK4W6Y,2021-04-29,2.0,-5.0,,-18.0,-3.0,2.0
+AU,Australia,New South Wales,Hurstville City Council,,,,ChIJv44EThe5EmsR_opVefoa5ZM,2021-04-29,-22.0,15.0,50.0,-9.0,-15.0,6.0
+AU,Australia,New South Wales,Inner West Council,,,,ChIJoSBOB6S6EmsRDuaE9xZBqlg,2021-04-29,-5.0,-8.0,14.0,-25.0,-27.0,7.0
+AU,Australia,New South Wales,Inverell Shire Council,,,,ChIJ7RGrT2FromsRsYW-NyBfpjQ,2021-04-29,,,,,32.0,
+AU,Australia,New South Wales,Kempsey Shire Council,,,,ChIJC_lFZoF6nmsRB9kFRSpUP8Y,2021-04-29,-3.0,,-16.0,,6.0,
+AU,Australia,New South Wales,Kogarah City Council,,,,ChIJjWcQmq25EmsRbnzh9Na8PUE,2021-04-29,,,,-22.0,-13.0,5.0
+AU,Australia,New South Wales,Ku-ring-gai Council,,,,ChIJ-fZBTgyoEmsRZNmsuUsvEjc,2021-04-29,1.0,16.0,31.0,-6.0,-8.0,7.0
+AU,Australia,New South Wales,Lane Cove Municipal Council,,,,ChIJxZCATRGvEmsRQ3FzykMOskQ,2021-04-29,4.0,14.0,,-23.0,-21.0,7.0
+AU,Australia,New South Wales,Leeton Shire Council,,,,ChIJNY2s6qILH2sRuMS88loiTGc,2021-04-29,,,,,6.0,
+AU,Australia,New South Wales,Lismore City Council,,,,ChIJPeYNfDeekGsRV-QdCC4pfHg,2021-04-29,-1.0,23.0,-10.0,,11.0,0.0
+AU,Australia,New South Wales,Lithgow City Council,,,,ChIJ51L5V-ryDWsRJmDLb5f8Dmw,2021-04-29,4.0,,,,6.0,
+AU,Australia,New South Wales,Maitland City Council,,,,ChIJ55sgqlBEc2sRIjh_XxWcc-E,2021-04-29,5.0,19.0,8.0,-35.0,1.0,1.0
+AU,Australia,New South Wales,Mid-Western Regional Council,,,,ChIJTw5-leiDDmsRS5UTuzB_CgU,2021-04-29,0.0,,,,5.0,
+AU,Australia,New South Wales,MidCoast Council,,,,ChIJ7wo8rzf4dGsRd1ziFliIhMo,2021-04-29,-2.0,-6.0,-33.0,-14.0,13.0,1.0
+AU,Australia,New South Wales,Mosman Municipal Council,,,,ChIJNe9GzhGsEmsRpsRKvYIKxnw,2021-04-29,-8.0,,-37.0,-26.0,-13.0,
+AU,Australia,New South Wales,Muswellbrook Shire Council,,,,ChIJB27NoeCODGsR-e9kHSLlS2A,2021-04-29,,,,,6.0,
+AU,Australia,New South Wales,Nambucca Shire Council,,,,ChIJ7zaP7CGHnmsRyjkFPNdoWhI,2021-04-29,,,-34.0,,17.0,
+AU,Australia,New South Wales,Newcastle City Council,,,,ChIJ0Ws-s0QVc2sRF66DUFcNoqw,2021-04-29,-9.0,7.0,-5.0,-23.0,-3.0,2.0
+AU,Australia,New South Wales,North Sydney Council,,,,ChIJs7S7tOyuEmsRpUU5oJ3BdDM,2021-04-29,-14.0,-15.0,-35.0,-37.0,-28.0,8.0
+AU,Australia,New South Wales,Northern Beaches Council,,,,ChIJqxuhvfBVDWsRPbiLFRe1EqA,2021-04-29,-9.0,8.0,-28.0,-34.0,-13.0,5.0
+AU,Australia,New South Wales,Orange City Council,,,,ChIJ0fTFOKPSEWsRfnBRaAcZIFw,2021-04-29,4.0,2.0,,,5.0,0.0
+AU,Australia,New South Wales,Palerang Council,,,,ChIJ56h39zNwFmsRRxXs5iZ4IrY,2021-04-29,,,,,-3.0,
+AU,Australia,New South Wales,Parkes Shire Council,,,,ChIJ4ci0TWFKBWsRLBnNscHOzuU,2021-04-29,,,,,1.0,
+AU,Australia,New South Wales,Penrith City Council,,,,ChIJ2cP2pJGFEmsR2N7I77hDpcs,2021-04-29,0.0,19.0,65.0,-1.0,-3.0,2.0
+AU,Australia,New South Wales,Port Macquarie-Hastings Council,,,,ChIJj4kTPrX1dWsRrmcDArjH8ww,2021-04-29,-3.0,1.0,-28.0,-35.0,8.0,0.0
+AU,Australia,New South Wales,Port Stephens Council,,,,ChIJ0Tt7ebB6c2sREnSb-VieKEg,2021-04-29,-8.0,-8.0,-46.0,-12.0,7.0,2.0
+AU,Australia,New South Wales,Queanbeyan City Council,,,,ChIJ95fCZKZJFmsRNKGDarWkyPU,2021-04-29,10.0,-2.0,,,5.0,1.0
+AU,Australia,New South Wales,Randwick City Council,,,,ChIJfQeMKtGzEmsR3i4XKq6p-l4,2021-04-29,-8.0,-3.0,-12.0,-7.0,-14.0,6.0
+AU,Australia,New South Wales,Richmond Valley Council,,,,ChIJC9YxlEkRmmsR8PM1-biXZ8k,2021-04-29,,,,,2.0,
+AU,Australia,New South Wales,Shellharbour City Council,,,,ChIJUY2DyasSE2sRMC6q_pANFOU,2021-04-29,0.0,-1.0,2.0,-13.0,4.0,1.0
+AU,Australia,New South Wales,Singleton Shire Council,,,,ChIJK_mqZreVDGsRoPbcp__Zsm8,2021-04-29,0.0,,,,14.0,
+AU,Australia,New South Wales,Strathfield Municipal Council,,,,ChIJt5OKGRS7EmsReUbCyAhWCZs,2021-04-29,1.0,13.0,14.0,-5.0,-24.0,7.0
+AU,Australia,New South Wales,Sutherland Shire,,,,ChIJz18KO-_GEmsRe3usN31cxv0,2021-04-29,-9.0,9.0,-23.0,-18.0,-13.0,4.0
+AU,Australia,New South Wales,Tamworth Regional Council,,,,ChIJrzBUXf12oGsRSoi8IcpLBU4,2021-04-29,4.0,19.0,-5.0,-1.0,6.0,1.0
+AU,Australia,New South Wales,The Council of the Municipality of Hunters Hill,,,,ChIJg5dCOHevEmsRfc_jZGAPEJM,2021-04-29,,,,,-6.0,
+AU,Australia,New South Wales,The Council of the Municipality of Kiama,,,,ChIJFRo157FxE2sRMwfVc6Nyf3A,2021-04-29,-16.0,,-25.0,-11.0,-1.0,
+AU,Australia,New South Wales,The Council of the Shire of Hornsby,,,,ChIJDwr6tWJaDWsRXtdc3D6SOMo,2021-04-29,-1.0,-3.0,39.0,-16.0,-12.0,7.0
+AU,Australia,New South Wales,The Hills Shire,,,,ChIJlxNxTBteDWsRZ4vDrgj2qb0,2021-04-29,2.0,3.0,62.0,-13.0,-3.0,5.0
+AU,Australia,New South Wales,Tumut Council,,,,ChIJY6ZhC1iqImsR_jpWByapnDc,2021-04-29,,,,,6.0,
+AU,Australia,New South Wales,Tweed Shire Council,,,,ChIJW9VpO6rvkGsRJdQ1siH39ic,2021-04-29,-11.0,3.0,-22.0,-2.0,-1.0,2.0
+AU,Australia,New South Wales,Wagga Wagga City Council,,,,ChIJ_wpT_mGeGGsRhxTOR7dH5dI,2021-04-29,-1.0,13.0,-13.0,-9.0,8.0,0.0
+AU,Australia,New South Wales,Waverley Council,,,,ChIJg7-VbZatEmsRJQw1y1_6uBk,2021-04-29,-28.0,-7.0,-48.0,-33.0,-26.0,6.0
+AU,Australia,New South Wales,Wingecarribee Shire Council,,,,ChIJ-Zps9s2XE2sRLt3bmJ8fsiA,2021-04-29,13.0,-14.0,,-15.0,13.0,0.0
+AU,Australia,New South Wales,Wollondilly Shire Council,,,,ChIJ0_6nGBlREmsRC45Pefpvc6c,2021-04-29,16.0,,,-13.0,-1.0,2.0
+AU,Australia,New South Wales,Wollongong City Council,,,,ChIJq88ZmCQcE2sRV6RG082xwM8,2021-04-29,-4.0,-2.0,-35.0,-27.0,-4.0,2.0
+AU,Australia,New South Wales,Woollahra Municipal Council,,,,ChIJvd-UBsutEmsR-Y_wcrb_x0U,2021-04-29,2.0,2.0,-29.0,-18.0,-24.0,7.0
+AU,Australia,New South Wales,Wyong Shire Council,,,,ChIJmZCXEd7TcmsRr0qD8TT0naM,2021-04-29,-4.0,6.0,-12.0,-24.0,-2.0,1.0
+AU,Australia,New South Wales,Yass Valley Council,,,,ChIJWS4-TOcEF2sRNGakO9e2BIc,2021-04-29,,,,,-2.0,
+AU,Australia,New South Wales,Young Shire Council,,,,ChIJSyxQFSr4GWsR1HSW5rEt8OE,2021-04-29,,,,,18.0,
+AU,Australia,Northern Territory,Alice Springs Municipality,,,,ChIJB3MX8CscMisRt_xlRyflPuk,2021-04-29,31.0,,,-57.0,11.0,0.0
+AU,Australia,Northern Territory,Darwin Municipality,,,,ChIJr5qGU4CTwCwRx8qywxGK4sI,2021-04-29,13.0,7.0,67.0,-5.0,15.0,-1.0
+AU,Australia,Northern Territory,Katherine Municipality,,,,ChIJN9SXBSHJuiwRDUq1es0i9zo,2021-04-29,,,,,11.0,
+AU,Australia,Northern Territory,Litchfield Municipality,,,,ChIJtwZpIn6vwCwRV8LlfaFhgtI,2021-04-29,,,,,10.0,
+AU,Australia,Northern Territory,Palmerston Municipality,,,,ChIJf6oVdLqiwCwRF3s4FkJaIhA,2021-04-29,11.0,,,-46.0,13.0,-1.0
+AU,Australia,Queensland,Banana Shire,,,,ChIJYWw954fNwGsRTEeusLd5SI8,2021-04-29,,,,,0.0,
+AU,Australia,Queensland,Brisbane City,,,,ChIJOQnQf63jk2sRC2qMcQI1vdU,2021-04-29,-8.0,2.0,-13.0,-26.0,-9.0,3.0
+AU,Australia,Queensland,Bundaberg Regional,,,,ChIJb6C3sS6l62sRWGu6HL9eOzo,2021-04-29,-1.0,8.0,6.0,-16.0,12.0,1.0
+AU,Australia,Queensland,Burdekin Shire,,,,ChIJa7xYCSEf2GsRaK4ow6r4AYI,2021-04-29,,,,,7.0,
+AU,Australia,Queensland,Cairns Regional,,,,ChIJYc58zZn4eGkR35GhX5R6pkY,2021-04-29,7.0,21.0,-24.0,-33.0,10.0,1.0
+AU,Australia,Queensland,Cassowary Coast Regional,,,,ChIJKbCOxr-3fmkRVKikkXha1Ts,2021-04-29,,0.0,-16.0,,17.0,2.0
+AU,Australia,Queensland,Central Highlands Regional,,,,ChIJPVE7ZVacyGsRwEE4onaAUnU,2021-04-29,,,,,-4.0,1.0
+AU,Australia,Queensland,City of Gold Coast,,,,ChIJ3cUXcZoakWsRtOKV8zbRDnw,2021-04-29,-12.0,4.0,-20.0,-28.0,-2.0,1.0
+AU,Australia,Queensland,City of Ipswich,,,,ChIJa3qdnELIlmsRnLwGNb_4Gss,2021-04-29,0.0,7.0,34.0,-5.0,0.0,0.0
+AU,Australia,Queensland,Douglas Shire,,,,ChIJKVD5LAD5d2kRZnELFenb7sw,2021-04-29,,,12.0,,14.0,
+AU,Australia,Queensland,Fraser Coast Regional,,,,ChIJ-fkvD1l662sRv7UIhR3c-bg,2021-04-29,-3.0,-1.0,-14.0,-40.0,7.0,1.0
+AU,Australia,Queensland,Gladstone Regional,,,,ChIJbXGfreCi6WsRJUOV6gBMY2o,2021-04-29,19.0,8.0,12.0,-8.0,7.0,1.0
+AU,Australia,Queensland,Gympie Regional,,,,ChIJGwK8wJ-_lGsRxl0C5NCqFX0,2021-04-29,8.0,31.0,34.0,,9.0,0.0
+AU,Australia,Queensland,Isaac Regional,,,,ChIJ3ze82rQ722sR-wi5G5haNUA,2021-04-29,,,5.0,,-7.0,
+AU,Australia,Queensland,Livingstone Shire,,,,ChIJSVBnMB1O3WsRky6tZPquuQg,2021-04-29,11.0,,,,4.0,0.0
+AU,Australia,Queensland,Lockyer Valley Regional,,,,ChIJL4PIVLLxlmsRyQLK356xsl0,2021-04-29,25.0,0.0,,,3.0,1.0
+AU,Australia,Queensland,Logan City,,,,ChIJx-RJL084kWsRViA_-Hx2Iro,2021-04-29,9.0,10.0,14.0,-8.0,4.0,0.0
+AU,Australia,Queensland,Mackay Regional,,,,ChIJ04e9GDqO3msRv-JCFi9dukg,2021-04-29,3.0,21.0,5.0,14.0,13.0,1.0
+AU,Australia,Queensland,Maranoa Regional,,,,ChIJLeiC9xABumsRg1vgKU0tdAg,2021-04-29,,,,,1.0,
+AU,Australia,Queensland,Mareeba Shire,,,,ChIJ9W_sf8QPhGkRYnSGG2EES6o,2021-04-29,,,18.0,,2.0,
+AU,Australia,Queensland,Moreton Bay Region,,,,ChIJ6UiQKk7xk2sRyKqo8-CRz6A,2021-04-29,-1.0,19.0,-1.0,-16.0,-3.0,1.0
+AU,Australia,Queensland,Mount Isa City,,,,ChIJN-Utm07oGWoRfJjhT8zMYbA,2021-04-29,12.0,,,,-9.0,
+AU,Australia,Queensland,Noosa Shire,,,,ChIJVVJrq19nk2sRMYJahqRTjxo,2021-04-29,-1.0,-17.0,-32.0,16.0,2.0,1.0
+AU,Australia,Queensland,Redland City,,,,ChIJc6p1eeVkkWsRtCw7T-o8YhI,2021-04-29,-7.0,14.0,-17.0,-20.0,-3.0,2.0
+AU,Australia,Queensland,Rockhampton Regional,,,,ChIJSb3XKE6hw2sRcBHTlmQFE6I,2021-04-29,4.0,-5.0,,-23.0,3.0,1.0
+AU,Australia,Queensland,Scenic Rim Regional,,,,ChIJmYHhJrwql2sRjF5U8twHqMw,2021-04-29,15.0,,11.0,,6.0,1.0
+AU,Australia,Queensland,Somerset Regional,,,,ChIJCzECHrg9lGsRzOeUJn6ePhA,2021-04-29,,,,,11.0,0.0
+AU,Australia,Queensland,South Burnett Regional,,,,ChIJ7UKWMeGdlWsRtIp_g_09cfs,2021-04-29,23.0,,,,4.0,0.0
+AU,Australia,Queensland,Southern Downs Regional,,,,ChIJd-6MQZeHl2sRg2plpppPTyA,2021-04-29,12.0,-12.0,,,13.0,1.0
+AU,Australia,Queensland,Sunshine Coast Regional,,,,ChIJWboNJ-uAk2sRHBo8iTm46p4,2021-04-29,-5.0,1.0,-5.0,-23.0,0.0,1.0
+AU,Australia,Queensland,Tablelands Regional,,,,ChIJCfLNcTbvgWkRPNxfTbLNyIs,2021-04-29,14.0,,12.0,,11.0,
+AU,Australia,Queensland,Toowoomba Regional,,,,ChIJexP-FYMklmsR0XyMuOBel34,2021-04-29,-1.0,5.0,-12.0,-52.0,6.0,1.0
+AU,Australia,Queensland,Townsville City,,,,ChIJmd5rpCB8fWkREnXy_ASjVIU,2021-04-29,8.0,11.0,-19.0,4.0,5.0,0.0
+AU,Australia,Queensland,Western Downs Regional,,,,ChIJJYctGvonvGsRSjXKix6QVNs,2021-04-29,8.0,,,,9.0,-3.0
+AU,Australia,Queensland,Whitsunday Regional,,,,ChIJTwDqR-2U2WsRKauW7OAHhWk,2021-04-29,5.0,12.0,-17.0,-13.0,4.0,1.0
+AU,Australia,South Australia,Adelaide City Council,,,,ChIJy52tqNXOsGoRtg5Tl_YDi68,2021-04-29,-10.0,4.0,-22.0,-3.0,5.0,6.0
+AU,Australia,South Australia,Adelaide Hills Council,,,,ChIJGx6Lfu5It2oRZaNxPKJpDx4,2021-04-29,21.0,,-14.0,,-4.0,1.0
+AU,Australia,South Australia,Alexandrina Council,,,,ChIJ6686AgPRtmoRejqIL0nAdvU,2021-04-29,,,-8.0,,11.0,
+AU,Australia,South Australia,Campbelltown City Council,,,,ChIJB887QYTKsGoRCg_kdZjJX3k,2021-04-29,8.0,9.0,,1.0,-2.0,2.0
+AU,Australia,South Australia,City of Burnside,,,,ChIJ-UoBJQvMsGoRgdMipD5Iawo,2021-04-29,0.0,12.0,,,7.0,2.0
+AU,Australia,South Australia,City of Charles Sturt,,,,ChIJ0Ts3VsTFsGoRL8KyGmM4LaM,2021-04-29,-3.0,13.0,-34.0,12.0,-7.0,2.0
+AU,Australia,South Australia,City of Holdfast Bay,,,,ChIJMc1ENFLasGoRwFIBq0PSRxo,2021-04-29,-16.0,-3.0,-28.0,-22.0,-6.0,2.0
+AU,Australia,South Australia,City of Marion,,,,ChIJmVefRSXasGoRBpX8AkJQijw,2021-04-29,-4.0,14.0,6.0,-3.0,4.0,2.0
+AU,Australia,South Australia,City of Mitcham,,,,ChIJj2c2WebRsGoRsoe7mwIMrkw,2021-04-29,4.0,-1.0,-12.0,34.0,-1.0,2.0
+AU,Australia,South Australia,City of Mount Gambier,,,,ChIJET3cWaEonqoRMrk2WBAhifA,2021-04-29,7.0,16.0,-24.0,,3.0,0.0
+AU,Australia,South Australia,City of Onkaparinga,,,,ChIJXQjYNb8osWoRBzaduogWPOU,2021-04-29,3.0,18.0,-3.0,13.0,-4.0,2.0
+AU,Australia,South Australia,City of Playford,,,,ChIJX45OVt6tsGoRi4BW54k9joQ,2021-04-29,5.0,46.0,27.0,-21.0,9.0,1.0
+AU,Australia,South Australia,City of Port Adelaide Enfield,,,,ChIJNTsoSuS3sGoRo2hpztb84rI,2021-04-29,4.0,23.0,-21.0,-3.0,-3.0,2.0
+AU,Australia,South Australia,City of Port Lincoln,,,,ChIJYa6oDc_Dq2oRW_Sb9tbL18g,2021-04-29,,,,,5.0,
+AU,Australia,South Australia,City of Prospect,,,,ChIJAbaPlgHJsGoRLpTmYhaOUxs,2021-04-29,-4.0,26.0,,,3.0,
+AU,Australia,South Australia,City of Salisbury,,,,ChIJEQXaPC6xsGoRKkBKqYiVhmk,2021-04-29,15.0,31.0,-12.0,-30.0,5.0,1.0
+AU,Australia,South Australia,City of Tea Tree Gully,,,,ChIJ-wqJpspMt2oRrRs6Lwie980,2021-04-29,-1.0,7.0,-16.0,-1.0,3.0,2.0
+AU,Australia,South Australia,City of Unley,,,,ChIJtwbT6PnOsGoREFK8YONerkA,2021-04-29,-2.0,,,-9.0,2.0,2.0
+AU,Australia,South Australia,City of Victor Harbor,,,,ChIJU91ZLHZFsWoRr4eLDSDCFKE,2021-04-29,,0.0,-40.0,,20.0,
+AU,Australia,South Australia,City of West Torrens,,,,ChIJ-zpwR2zFsGoRONxkJhVv_qo,2021-04-29,6.0,20.0,,-24.0,-2.0,1.0
+AU,Australia,South Australia,District Council of Loxton Waikerie,,,,ChIJDapjdwpyx2oRpHtnWWaU9Ug,2021-04-29,,,,,1.0,
+AU,Australia,South Australia,District Council of Mallala,,,,ChIJD-gDa06gsGoRdci6eRYLMk4,2021-04-29,,,,,7.0,
+AU,Australia,South Australia,District Council of Mount Barker,,,,ChIJPa6DT2Mwt2oRalTk28YfRtA,2021-04-29,13.0,26.0,,,11.0,-1.0
+AU,Australia,South Australia,District Council of the Copper Coast,,,,ChIJy7EdTe2-umoRxxsHBL963YQ,2021-04-29,,,,,8.0,
+AU,Australia,South Australia,Light Regional Council,,,,ChIJt8_5FEryuWoRdkmLGgNmjcQ,2021-04-29,,,,,8.0,
+AU,Australia,South Australia,Port Augusta City Council,,,,ChIJbfbp_TbovGoREbSgdTr7gxQ,2021-04-29,,,,,8.0,
+AU,Australia,South Australia,Port Pirie Regional Council,,,,ChIJmZlpZrmdu2oRLqeMMeJVEPk,2021-04-29,,24.0,,,11.0,
+AU,Australia,South Australia,Renmark Paringa Council,,,,ChIJjefCC6cuwWoRKf0C5gnoNBM,2021-04-29,,,,,2.0,
+AU,Australia,South Australia,The Barossa Council,,,,ChIJaVhKnqfmuWoRljPuMdBVmCc,2021-04-29,-16.0,,,,10.0,-1.0
+AU,Australia,South Australia,The Berri Barmera Council,,,,ChIJOfmwbcI6x2oRTTrpp-7T48c,2021-04-29,,,,,2.0,
+AU,Australia,South Australia,The City of Norwood Payneham and St Peters,,,,ChIJdYnSuGPJsGoRCVfo9x8-rCU,2021-04-29,-10.0,30.0,-15.0,,-1.0,3.0
+AU,Australia,South Australia,The Corporation of the City of Whyalla,,,,ChIJE_pDrp9Ru2oRubThdNns8Jk,2021-04-29,,,,,3.0,0.0
+AU,Australia,South Australia,The Rural City of Murray Bridge,,,,ChIJq880gs4Lt2oRKWH453vK72A,2021-04-29,-5.0,3.0,,,10.0,
+AU,Australia,South Australia,Town of Gawler,,,,ChIJXRSkBUdVt2oR48RphwHGCBo,2021-04-29,8.0,10.0,,-45.0,3.0,0.0
+AU,Australia,Tasmania,Break O'Day Council,,,,ChIJ3bQzcfYud6oR9-NG3xnrEyc,2021-04-29,,,-47.0,,,
+AU,Australia,Tasmania,Brighton Council,,,,ChIJXzGOTPQRbqoRuSeN1DuUZFM,2021-04-29,,40.0,,,16.0,
+AU,Australia,Tasmania,Burnie City Council,,,,ChIJL-vsX5a9e6oRtRsO6Ah-lpA,2021-04-29,1.0,0.0,,,11.0,
+AU,Australia,Tasmania,Central Coast Council,,,,ChIJVeL21kCxe6oRSXXwA09u2eM,2021-04-29,,,-50.0,,9.0,
+AU,Australia,Tasmania,Clarence City Council,,,,ChIJpd4SAJ7gbaoRbLlUZPBr-g8,2021-04-29,-4.0,33.0,-24.0,-15.0,14.0,2.0
+AU,Australia,Tasmania,Derwent Valley Council,,,,ChIJbfOgZzpRbqoRkp4QmoeiBIA,2021-04-29,,,,,13.0,
+AU,Australia,Tasmania,Devonport City Council,,,,ChIJ4TlfVsE0eqoRZhjmaL5wQds,2021-04-29,-12.0,-7.0,,,10.0,2.0
+AU,Australia,Tasmania,Glamorgan-Spring Bay Council,,,,ChIJpQr8wjOPcaoROsiOUQSEAes,2021-04-29,,,-44.0,,,
+AU,Australia,Tasmania,Glenorchy City Council,,,,ChIJj8jdQxFzbqoRFwMfzlN5sPw,2021-04-29,-5.0,9.0,,,6.0,2.0
+AU,Australia,Tasmania,Hobart City Council,,,,ChIJ_zyPItp1bqoR-oiprXQnjWg,2021-04-29,-10.0,-6.0,-6.0,-19.0,9.0,2.0
+AU,Australia,Tasmania,Huon Valley Council,,,,ChIJtwiDk7ylbqoRevOXpJAty94,2021-04-29,,,,,9.0,
+AU,Australia,Tasmania,Kingborough Council,,,,ChIJ7yGKrH4xbKoR0bIxtydLuF4,2021-04-29,-3.0,,23.0,-21.0,13.0,3.0
+AU,Australia,Tasmania,Latrobe Council,,,,ChIJKTrBFmU6eqoRpdS67meN1Qs,2021-04-29,,,,,10.0,
+AU,Australia,Tasmania,Launceston City Council,,,,ChIJQ2TGTKCrcKoRaWqH9KK0cfQ,2021-04-29,-6.0,-5.0,-12.0,,15.0,2.0
+AU,Australia,Tasmania,Meander Valley Council,,,,ChIJTeRZcvSHeqoRcKwtgeWbcm8,2021-04-29,-1.0,,,,13.0,
+AU,Australia,Tasmania,Northern Midlands Council,,,,ChIJ2cHJ5JT-cKoR9P6SKIVK4hk,2021-04-29,,,,-26.0,4.0,
+AU,Australia,Tasmania,Sorell Council,,,,ChIJjUB9fsr6baoR_Wx-g7HOFUI,2021-04-29,,,,,3.0,
+AU,Australia,Tasmania,Waratah-Wynyard Council,,,,ChIJPV19fkF2e6oRcoaCBDxvdl8,2021-04-29,,,,,20.0,
+AU,Australia,Tasmania,West Tamar Council,,,,ChIJyTT4HIEZeqoR-W_OXNmYRiE,2021-04-29,,,,,9.0,
+AU,Australia,Victoria,Alpine Shire,,,,ChIJC8XIj5EoJGsRU810o5_W3Fg,2021-04-29,,,,,7.0,
+AU,Australia,Victoria,Ballarat City,,,,ChIJ_0n_WU5C0WoRQhNeXyaV8hU,2021-04-29,-5.0,6.0,19.0,-34.0,3.0,2.0
+AU,Australia,Victoria,Banyule City,,,,ChIJN3uhtzFG1moRcm0iQna9l0E,2021-04-29,-10.0,-9.0,34.0,-24.0,-20.0,6.0
+AU,Australia,Victoria,Bass Coast Shire,,,,ChIJs0ssm0z21WoRZybgTNSb9ls,2021-04-29,-30.0,-20.0,-58.0,,1.0,3.0
+AU,Australia,Victoria,Baw Baw Shire,,,,ChIJdZiaxKSrKWsRbK06ED6pBmw,2021-04-29,11.0,-6.0,,,6.0,1.0
+AU,Australia,Victoria,Bayside City,,,,ChIJy_H1FcNu1moROrd8SGaB1I4,2021-04-29,2.0,-10.0,-14.0,-53.0,-23.0,7.0
+AU,Australia,Victoria,Benalla Rural City,,,,ChIJkR5jK_kFJ2sRQ7ZTfzaQHZo,2021-04-29,,,,,11.0,
+AU,Australia,Victoria,Boroondara City,,,,ChIJo0uOpoFB1moR_Jg9IVgcPfo,2021-04-29,-17.0,-16.0,16.0,-31.0,-27.0,8.0
+AU,Australia,Victoria,Brimbank City,,,,ChIJUXXCOAhf1moRI9x3_C8aCw4,2021-04-29,-9.0,6.0,20.0,-31.0,-20.0,4.0
+AU,Australia,Victoria,Campaspe Shire,,,,ChIJfxT1dhCs2WoRxG39PNx0Zxg,2021-04-29,-2.0,-5.0,-23.0,,-3.0,1.0
+AU,Australia,Victoria,Cardinia Shire,,,,ChIJ73I5EUThKWsRm2i9jETj_Rg,2021-04-29,-6.0,5.0,-13.0,5.0,1.0,2.0
+AU,Australia,Victoria,Central Goldfields Shire,,,,ChIJS17WjWDd0GoR1HUdUIllfaI,2021-04-29,,,,,8.0,
+AU,Australia,Victoria,City of Casey,,,,ChIJKYI2f6Ua1moRlVT3DWNjfrI,2021-04-29,-6.0,11.0,12.0,4.0,-4.0,3.0
+AU,Australia,Victoria,City of Hume,,,,ChIJuTjvsclX1moRT9nh4K7b5fI,2021-04-29,-5.0,14.0,8.0,-52.0,-8.0,3.0
+AU,Australia,Victoria,City of Knox,,,,ChIJ0Xsulqo91moROd3brQW_j00,2021-04-29,-21.0,3.0,7.0,-10.0,-23.0,5.0
+AU,Australia,Victoria,City of Maribyrnong,,,,ChIJX-EVb-Nd1moR1fgATftmfC0,2021-04-29,-20.0,-11.0,23.0,-38.0,-25.0,9.0
+AU,Australia,Victoria,City of Wyndham,,,,ChIJm4jB3BaF1moRItR1TFPrXzc,2021-04-29,-6.0,22.0,17.0,-39.0,-15.0,7.0
+AU,Australia,Victoria,City of Yarra,,,,ChIJtc7U9gBD1moRf2HGrPdUtvE,2021-04-29,-17.0,-8.0,-18.0,-40.0,-37.0,10.0
+AU,Australia,Victoria,Colac Otway Shire,,,,ChIJ3XieguUQ02oRirc0WeapOr0,2021-04-29,-31.0,,-50.0,,-2.0,
+AU,Australia,Victoria,Corangamite Shire,,,,ChIJ1S4caGb60moRCKaNAI3i35w,2021-04-29,,,-72.0,,6.0,
+AU,Australia,Victoria,Darebin City,,,,ChIJMbljvrRF1moRa1G6KbyRnl0,2021-04-29,-13.0,-8.0,11.0,-31.0,-20.0,8.0
+AU,Australia,Victoria,East Gippsland Shire,,,,ChIJw1MxsqAlO2sRIbk-PJ47vfQ,2021-04-29,-14.0,9.0,-5.0,,11.0,1.0
+AU,Australia,Victoria,Frankston City,,,,ChIJ7Y3nYmUL1moRxRA-mOZjVf4,2021-04-29,-11.0,8.0,24.0,-11.0,-8.0,3.0
+AU,Australia,Victoria,Glen Eira City,,,,ChIJX2LvgXlp1moRvYSVmeRZ13c,2021-04-29,-7.0,-6.0,4.0,-52.0,-22.0,8.0
+AU,Australia,Victoria,Glenelg Shire,,,,ChIJ99BLcUWvzGoRc56q4yq63sk,2021-04-29,-9.0,,-44.0,,4.0,
+AU,Australia,Victoria,Golden Plains Shire,,,,ChIJexYS4lbk02oR860sKae_qD4,2021-04-29,,,,,-1.0,
+AU,Australia,Victoria,Greater Bendigo City,,,,ChIJIc5Hq9Df2WoRd6oSWAN4CN0,2021-04-29,1.0,-8.0,-5.0,10.0,-1.0,2.0
+AU,Australia,Victoria,Greater Dandenong City,,,,ChIJZd7Yb5gT1moR2drS5W10leE,2021-04-29,-11.0,-12.0,-16.0,-25.0,-17.0,4.0
+AU,Australia,Victoria,Greater Geelong City,,,,ChIJtRCT1EAi1GoRZT1X3HI-ioo,2021-04-29,-17.0,-4.0,-20.0,-27.0,-9.0,3.0
+AU,Australia,Victoria,Greater Shepparton City,,,,ChIJF_mwlyWB2GoRMLprYYliSHU,2021-04-29,-6.0,5.0,-13.0,,5.0,0.0
+AU,Australia,Victoria,Hepburn Shire,,,,ChIJTTF5AlEs0WoRB5WEh9Zd9j0,2021-04-29,,,,,4.0,
+AU,Australia,Victoria,Hobsons Bay City,,,,ChIJrQet5Xth1moRoNNpoMfBvFM,2021-04-29,-9.0,-2.0,-29.0,-34.0,-20.0,6.0
+AU,Australia,Victoria,Horsham Rural City,,,,ChIJxweEHk9nzmoR7gQrMhl86sI,2021-04-29,,1.0,,,10.0,
+AU,Australia,Victoria,Indigo Shire,,,,ChIJ3e2WHkhMIWsRdgbRs-b4Is4,2021-04-29,,,,,8.0,
+AU,Australia,Victoria,Kingston City,,,,ChIJYz5M9gpt1moRHZYOiucQoJA,2021-04-29,-15.0,15.0,-16.0,-16.0,-15.0,5.0
+AU,Australia,Victoria,Latrobe City,,,,ChIJOTw1Lv0TKWsRuc78O2JcVNI,2021-04-29,-9.0,-10.0,,-10.0,0.0,1.0
+AU,Australia,Victoria,Macedon Ranges Shire,,,,ChIJ49kasq4E12oRr8wScMrDxnM,2021-04-29,16.0,-14.0,,-28.0,-7.0,3.0
+AU,Australia,Victoria,Manningham City,,,,ChIJV-JW3Co41moR0YyKZY1OOv0,2021-04-29,-12.0,3.0,27.0,-22.0,-13.0,6.0
+AU,Australia,Victoria,Maroondah City,,,,ChIJt73vIV461moR4mGb3EELBvo,2021-04-29,-15.0,4.0,-14.0,-25.0,-17.0,5.0
+AU,Australia,Victoria,Melbourne City,,,,ChIJv_FYgkNd1moRpxLuRXZURFs,2021-04-29,-37.0,-29.0,-45.0,-46.0,-28.0,11.0
+AU,Australia,Victoria,Melton City,,,,ChIJAy6X3ojy1moREPMohCgh1GM,2021-04-29,-3.0,14.0,38.0,-31.0,0.0,3.0
+AU,Australia,Victoria,Mildura Rural City,,,,ChIJ02bLJx5mxGoRuLg-2pmx7gI,2021-04-29,-10.0,-1.0,,-16.0,-2.0,0.0
+AU,Australia,Victoria,Mitchell Shire,,,,ChIJAdau00aX12oR_JGelguImyg,2021-04-29,-7.0,-1.0,,-25.0,-1.0,1.0
+AU,Australia,Victoria,Moira Shire,,,,ChIJ2S8Spn9XJ2sRxHDATC2vxWI,2021-04-29,,-13.0,,,-4.0,3.0
+AU,Australia,Victoria,Monash City,,,,ChIJAW1BE1cV1moRwkykqCIpKcg,2021-04-29,-9.0,10.0,34.0,-33.0,-21.0,6.0
+AU,Australia,Victoria,Moonee Valley City,,,,ChIJNRWDGxVc1moR5Ez5kWZTlz4,2021-04-29,-2.0,7.0,15.0,-33.0,-22.0,7.0
+AU,Australia,Victoria,Moorabool Shire,,,,ChIJ9S2SoyG31moRP6gfF7QOV7w,2021-04-29,2.0,,,-33.0,-3.0,2.0
+AU,Australia,Victoria,Moreland City,,,,ChIJR09Ut2lb1moRB2WJOHvYMRg,2021-04-29,-11.0,-3.0,11.0,-40.0,-23.0,8.0
+AU,Australia,Victoria,Mount Alexander Shire,,,,ChIJQVB8h3Yx12oRs8vRF5Qmc40,2021-04-29,,,,,0.0,
+AU,Australia,Victoria,Moyne Shire,,,,ChIJVQZLefFDzWoRpkkbnz-QEm4,2021-04-29,,,-55.0,,2.0,
+AU,Australia,Victoria,Murrindindi Shire,,,,ChIJkWqsiYEPKGsRO0gFge56rr8,2021-04-29,,,,,0.0,
+AU,Australia,Victoria,Nillumbik Shire,,,,ChIJj9onUVLL12oRpVjfuPW0xeo,2021-04-29,-13.0,,,-20.0,-11.0,5.0
+AU,Australia,Victoria,Northern Grampians Shire,,,,ChIJYxQW4HXS0WoRPk05iUErDq4,2021-04-29,,,-30.0,,4.0,
+AU,Australia,Victoria,Port Phillip City,,,,ChIJO9nyAXho1moRqdfqYTtnGyA,2021-04-29,-35.0,-22.0,-54.0,-52.0,-36.0,9.0
+AU,Australia,Victoria,Shire of Mornington Peninsula,,,,ChIJcVC2pWDP1WoRgrwLtSh9Ly8,2021-04-29,-20.0,-13.0,-45.0,-20.0,-2.0,2.0
+AU,Australia,Victoria,South Gippsland Shire,,,,ChIJQYgEgeEwKmsR5L4kHDobxSw,2021-04-29,-11.0,,-53.0,,4.0,
+AU,Australia,Victoria,Southern Grampians Shire,,,,ChIJSaxAtE2tzWoR18H9WKzIUh8,2021-04-29,,,,,10.0,
+AU,Australia,Victoria,Stonnington City,,,,ChIJcbovqORp1moR9Z15BNtVA5A,2021-04-29,-20.0,13.0,-29.0,-45.0,-33.0,10.0
+AU,Australia,Victoria,Surf Coast Shire,,,,ChIJIe6EesN41GoR-pO-nxsXn08,2021-04-29,-30.0,-36.0,-73.0,,-9.0,
+AU,Australia,Victoria,Swan Hill Rural City,,,,ChIJs_TC4nti22oRfgG6MiHvfAU,2021-04-29,,,,,-8.0,
+AU,Australia,Victoria,Wangaratta Rural City,,,,ChIJkzavw1LuJmsRFoTlSJBLCnQ,2021-04-29,-5.0,-10.0,,,8.0,1.0
+AU,Australia,Victoria,Warrnambool City,,,,ChIJW88Th_JNzWoRbjlfkhG6P5g,2021-04-29,-22.0,-12.0,-48.0,,-1.0,2.0
+AU,Australia,Victoria,Wellington Shire,,,,ChIJieN105g2L2sRoOZfsYf2t-o,2021-04-29,1.0,0.0,-6.0,,3.0,2.0
+AU,Australia,Victoria,Whitehorse City,,,,ChIJJV1W0kg_1moRzSsKXThD7I4,2021-04-29,-19.0,4.0,2.0,-17.0,-17.0,7.0
+AU,Australia,Victoria,Whittlesea City,,,,ChIJyZ4oiR2112oRXKMqMMUed6s,2021-04-29,-6.0,5.0,23.0,-22.0,-9.0,4.0
+AU,Australia,Victoria,Wodonga City,,,,ChIJifxkuVpYIWsR1JpuHrgQ37M,2021-04-29,-6.0,7.0,,,3.0,1.0
+AU,Australia,Victoria,Yarra Ranges Shire,,,,ChIJv6MfDZ8zKGsRfE7_hAo3eYw,2021-04-29,-14.0,10.0,-12.0,-32.0,-10.0,4.0
+AU,Australia,Western Australia,City of Albany,,,,ChIJF6PdTh_vOCoRzhjshm_HSQ0,2021-04-29,-4.0,9.0,2.0,,14.0,2.0
+AU,Australia,Western Australia,City of Armadale,,,,ChIJdVp3TOTtMioR8-fd_b1HA_E,2021-04-29,-3.0,-12.0,-21.0,-27.0,-10.0,6.0
+AU,Australia,Western Australia,City of Bayswater,,,,ChIJad6A3nq6MioR5LzEFzDUXWQ,2021-04-29,-9.0,-1.0,-29.0,-12.0,-15.0,11.0
+AU,Australia,Western Australia,City of Belmont,,,,ChIJQy2rv967MioRoa8cEIJ-e3A,2021-04-29,8.0,10.0,-23.0,-32.0,-17.0,9.0
+AU,Australia,Western Australia,City of Bunbury,,,,ChIJ_chQQocdLioRKL3XpmFfGNQ,2021-04-29,1.0,9.0,-59.0,-52.0,8.0,3.0
+AU,Australia,Western Australia,City of Busselton,,,,ChIJ6_DBWRw5LioREsF3FRs7KgU,2021-04-29,-20.0,-21.0,-67.0,,2.0,4.0
+AU,Australia,Western Australia,City of Canning,,,,ChIJy4ACm5W9MioRNRBQUs4n6to,2021-04-29,-10.0,10.0,-20.0,-32.0,-9.0,10.0
+AU,Australia,Western Australia,City of Cockburn,,,,ChIJ6TvpNVtfLSoRWvt9x27DPRU,2021-04-29,-8.0,-5.0,-44.0,-6.0,-14.0,9.0
+AU,Australia,Western Australia,City of Fremantle,,,,ChIJuaGJtNCjMioRTCZQQJtYvuc,2021-04-29,-15.0,-20.0,-57.0,-48.0,-19.0,11.0
+AU,Australia,Western Australia,City of Gosnells,,,,ChIJe_mN2HOVMioRJowVj-HNcp4,2021-04-29,14.0,13.0,-14.0,-26.0,-6.0,8.0
+AU,Australia,Western Australia,City of Greater Geraldton,,,,ChIJmTl-aATZ2isRyaH7f3c-NU4,2021-04-29,6.0,9.0,,-21.0,14.0,1.0
+AU,Australia,Western Australia,City of Joondalup,,,,ChIJqQG2UxWrMioRZ_D0u8qKg6M,2021-04-29,-13.0,5.0,-42.0,-31.0,-20.0,9.0
+AU,Australia,Western Australia,City of Kalamunda,,,,ChIJu9QZAvXBMioRatt5vQkTP1c,2021-04-29,4.0,16.0,3.0,-51.0,-7.0,8.0
+AU,Australia,Western Australia,City of Kalgoorlie-Boulder,,,,ChIJWbpshdzL-CoRKrRLHFEGxt8,2021-04-29,9.0,18.0,,-5.0,10.0,0.0
+AU,Australia,Western Australia,City of Karratha,,,,ChIJDxFsW91d9isRW9xXo2kheM8,2021-04-29,5.0,,-14.0,-26.0,0.0,3.0
+AU,Australia,Western Australia,City of Kwinana,,,,ChIJSe9MNuuaMioRJLOoPReRjO8,2021-04-29,7.0,43.0,,-18.0,-9.0,7.0
+AU,Australia,Western Australia,City of Mandurah,,,,ChIJB5zFkYh3MioRstKplvOyla0,2021-04-29,2.0,10.0,-31.0,-33.0,-4.0,5.0
+AU,Australia,Western Australia,City of Melville,,,,ChIJSdDUKyGjMioR6_oxNP9V-Vw,2021-04-29,-11.0,4.0,-32.0,-42.0,-14.0,12.0
+AU,Australia,Western Australia,City of Nedlands,,,,ChIJi1fzpkukMioROGljSrZO64s,2021-04-29,-16.0,,-26.0,,-20.0,
+AU,Australia,Western Australia,City of Perth,,,,ChIJC4Rr0Cq7MioRAFPLcwKhtHI,2021-04-29,-54.0,-30.0,-58.0,-47.0,-30.0,16.0
+AU,Australia,Western Australia,City of Rockingham,,,,ChIJdUDB8T-DMioRCtIKmCaw_QU,2021-04-29,-6.0,12.0,12.0,-38.0,-8.0,5.0
+AU,Australia,Western Australia,City of South Perth,,,,ChIJwccFDqG8MioR1nBxsf5z_JA,2021-04-29,-21.0,,-32.0,-32.0,-25.0,14.0
+AU,Australia,Western Australia,City of Stirling,,,,ChIJVbgKG7qvMioRGzG8gF9KdLU,2021-04-29,-5.0,13.0,-37.0,-41.0,-23.0,11.0
+AU,Australia,Western Australia,City of Subiaco,,,,ChIJMxX7LeKkMioR1oFvuzYF1o4,2021-04-29,-16.0,,,-32.0,-31.0,
+AU,Australia,Western Australia,City of Swan,,,,ChIJrfq0By3KMioROnrYkNu1938,2021-04-29,0.0,44.0,-33.0,-42.0,-2.0,6.0
+AU,Australia,Western Australia,City of Vincent,,,,ChIJA_FWkrS6MioR_xSwzQ_7ph4,2021-04-29,-24.0,13.0,-25.0,-37.0,-34.0,17.0
+AU,Australia,Western Australia,City of Wanneroo,,,,ChIJN2bgHU1WzSsRUP70rWbGwWY,2021-04-29,10.0,19.0,-34.0,-33.0,-7.0,7.0
+AU,Australia,Western Australia,Shire of Ashburton,,,,ChIJ10Lo6WRq8SsR0UJQRU2fTrY,2021-04-29,,,21.0,,13.0,
+AU,Australia,Western Australia,Shire of Augusta-Margaret River,,,,ChIJs_AkWlXHLyoRqNZ4UHXgZ8A,2021-04-29,,,-64.0,,13.0,
+AU,Australia,Western Australia,Shire of Broome,,,,ChIJ1e3HcKMjcCwRWAfrBssc2Jk,2021-04-29,,,,,31.0,
+AU,Australia,Western Australia,Shire of Capel,,,,ChIJJfjNtrwhLioRbRd1D6GPRBg,2021-04-29,,,,,15.0,
+AU,Australia,Western Australia,Shire of Dardanup,,,,ChIJ0e33IRjoMSoRsS3CVGP7SJQ,2021-04-29,-8.0,,,,6.0,
+AU,Australia,Western Australia,Shire of East Pilbara,,,,ChIJ0aXG3AMmgysRHiNJrGSk85A,2021-04-29,,,5.0,19.0,2.0,
+AU,Australia,Western Australia,Shire of Esperance,,,,ChIJuWcAhlEbWyoRnMNqYEEB7Zg,2021-04-29,-7.0,,,,13.0,
+AU,Australia,Western Australia,Shire of Harvey,,,,ChIJPzpWt7r2MSoRIfMJ7sjuvC4,2021-04-29,6.0,,,,18.0,2.0
+AU,Australia,Western Australia,Shire of Mundaring,,,,ChIJ31ofs9vEMioR0y3OP6Lox-8,2021-04-29,15.0,,,,-3.0,7.0
+AU,Australia,Western Australia,Shire of Murray,,,,ChIJfTab9TBpMioR8RUfHktIkOQ,2021-04-29,,,,,1.0,
+AU,Australia,Western Australia,Shire of Northam,,,,ChIJT-BtflQwMyoRQqTf2RaKem0,2021-04-29,,,,,5.0,
+AU,Australia,Western Australia,Shire of Serpentine-Jarrahdale,,,,ChIJ78rbU8z0MioR466isx81nfk,2021-04-29,,,,,-5.0,5.0
+AU,Australia,Western Australia,Town of Bassendean,,,,ChIJR1X_OB26MioRI8T1sbkuDXk,2021-04-29,,,,-29.0,-23.0,
+AU,Australia,Western Australia,Town of Cambridge,,,,ChIJywG3noSlMioRCz8TieOMH0Q,2021-04-29,-7.0,,-35.0,-51.0,-27.0,
+AU,Australia,Western Australia,Town of Claremont,,,,ChIJzy2ctjekMioRCcmcWIaa8IQ,2021-04-29,-11.0,,,,-20.0,
+AU,Australia,Western Australia,Town of Cottesloe,,,,ChIJxf2tdx-kMioRJOZpQ6GJ2hQ,2021-04-29,,,-57.0,,,
+AU,Australia,Western Australia,Town of Port Hedland,,,,ChIJk9DO_Yoq9SsRX_KCepEBXlA,2021-04-29,,,,-20.0,6.0,
+AU,Australia,Western Australia,Town of Victoria Park,,,,ChIJq7eDUJu7MioR86Tu9g2p2pQ,2021-04-29,-11.0,15.0,-12.0,-34.0,-29.0,15.0

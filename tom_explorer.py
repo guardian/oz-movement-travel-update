@@ -34,7 +34,7 @@ df = df[['Date', 'City', 'Smoothed congestion level']]
 
 df.loc[df['City'] == 'Gold-Coast', 'City'] = "Gold Coast"
 
-print(df['Date'].unique())
+# print(df['Date'].unique())
 # df = df.loc[~df['City'].isin(exclude)]
 
 def makeDailyCountryChart(df):
@@ -43,9 +43,9 @@ def makeDailyCountryChart(df):
 
 	template = [
 			{
-				"title": "Road traffic has largely recovered",
-				"subtitle": "7 day rolling average of traffic congestion",
-				"footnote": "",
+				"title": "Road congestion has largely recovered",
+				"subtitle": "Showing the 7 day rolling average of traffic congestion, where congestion is measured as as how much longer it takes to do a 30 minutes trip, based on Tom Tom location data",
+				"footnote": "7 day rolling average of traffic congestion.",
 				"source": " | Source: TomTom Traffic Index congestion level",
 				"dateFormat": "%Y-%m-%d",
 				"xAxisLabel": "",
@@ -67,7 +67,8 @@ def makeDailyCountryChart(df):
 	df.fillna('', inplace=True)
 	chartData = df.to_dict('records')
 
-	yachtCharter(template=template, options=[{"chartType":"are"}], data=chartData, chartId=chartId, chartName="australia-road-traffic-by-city")
+	# yachtCharter(template=template, options=[{"chartType":"area"}], data=chartData, chartId=chartId, chartName="australia-road-traffic-by-city")
+	yachtCharter(template=template, options=[{"chartType":"line"}], data=chartData, chartId=chartId, chartName="australia-road-traffic-by-city")
 
 
 

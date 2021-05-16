@@ -52,10 +52,10 @@ def makeTestingLine(df):
 
     template = [
             {
-                "title": "Sydney transport patronage",
-                "subtitle": f"Some modes of transport have recovered more than others",
+                "title": "Greater Sydney transport patronage",
+                "subtitle": f"Transport for NSW data shows some modes of transport have recovered more than others",
                 "footnote": "",
-                "source": "New South Wales transport",
+                "source": "Transport for NSW",
                 "dateFormat": "%Y-%m-%d",
                 "yScaleType":"",
                 "xAxisLabel": "Date",
